@@ -1,7 +1,7 @@
 # 季源隆——个人主页
 
 ## News
-### 正在<span class="highlight">北京航空航天大学</span> (BUAA) 的生物医学与工程学院 进行有关<span class="highlight">下肢骨科围手术期康复治疗外骨骼</span>的项目研究
+### 正在<span class="highlight">北京航空航天大学</span> (BUAA) 的生物医学与工程学院 进行有关<span class="highlight">下肢骨科围手术期康复治疗外骨骼</span>的项目研究。
 #### Date
 2023-9-01
 
