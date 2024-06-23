@@ -45,7 +45,7 @@ school1.png
 #### Brief
 2018 - 2022 | 机械工程 | <b>工学</b> 学士
 #### Detail
-师从<b>刘志峰</b>教授|<b>长江学者</b>，以第一作者身份发表<b>1篇EI论文，1篇中文核心论文</b>，获得并在多项学科竞赛中获得<b>国家级一等奖/金奖</b>，主持或参与多项国家级、校级大学生创新创业项目，并授权多项国家发明专利和软件著作。
+师从<b>刘志峰</b>教授（<b>长江学者</b>）和<b>孙树文</b>副教授，以第一作者身份发表<b>1篇EI论文，1篇中文核心论文</b>，获得并在多项学科竞赛中获得<b>国家级一等奖/金奖</b>，主持或参与多项国家级、校级大学生创新创业项目，并授权多项国家发明专利和软件著作。
 
 ## Publication
 ### Research
@@ -98,9 +98,30 @@ https://ieeexplore.ieee.org/document/9409466
 
 ### Patent
 
+#### 一种拧拽式取物机械装置
+##### Image
+patent_2.png
+##### Link
+https://xueshu.baidu.com/usercenter/paper/show?paperid=137m0pq01u030g1048410c60t7577238&site=xueshu_se&site=xueshu_se
+##### Author
+李富平;<b>季源隆;</b>张力元;杨梦馨
+##### Date
+2021, Aug 29
+##### PubTitle
+<b>发明专利</b>
+##### Index
+ZL202110999646.5
+##### Abstract
+本发明公开了一种拧拽式取物机械装置，该装置依靠视觉识别模块识别果实后，盘状手爪配合机械臂旋转，精准对位目标，之后盘状手爪中的类行星轮机构模仿人工夹拧动作，使得果实被夹紧，最后盘状手爪配合机械臂运动，最终实现果实无损快速的摘取。
+##### Keywords
+- 机构设计
+##### Actions
+###### DOC
+https://xueshu.baidu.com/usercenter/paper/show?paperid=137m0pq01u030g1048410c60t7577238&site=xueshu_se
+
 #### 一种嵌套式工业装配机械爪
 ##### Image
-patent_1.jpg
+patent_1.png
 ##### Link
 https://xueshu.baidu.com/usercenter/paper/show?paperid=195a0ma0xf3p0ac0uk7q0p6078770150&site=xueshu_se
 ##### Author
@@ -110,9 +131,9 @@ https://xueshu.baidu.com/usercenter/paper/show?paperid=195a0ma0xf3p0ac0uk7q0p607
 ##### PubTitle
 <b>发明专利</b>
 ##### Index
-CN202011056399.7
+ZL202011056399.7
 ##### Abstract
-本发明公开了一种嵌套式工业装配机械爪,机械整体结构可以分为两个部分:"重力调节机械臂体"和"嵌套式结构机械爪".
+本发明公开了一种嵌套式工业装配机械爪，机械整体结构可以分为两个部分：“重力调节机械臂体"和"嵌套式结构机械爪。”
 ##### Keywords
 - 机构设计
 ##### Actions
@@ -120,6 +141,26 @@ CN202011056399.7
 https://xueshu.baidu.com/usercenter/paper/show?paperid=195a0ma0xf3p0ac0uk7q0p6078770150&site=xueshu_se
 
 
+#### 一种轨道式外卖取餐自动传送装置
+##### Image
+patent_3.png
+##### Link
+https://xueshu.baidu.com/usercenter/paper/show?paperid=1f7h0re0q3640p10cn0u06b0f4064588&site=xueshu_se&hitarticle=1
+##### Author
+孙树文;<b>季源隆</b>;蒋浩然;李溥钊
+##### Date
+2019, Nov 25
+##### PubTitle
+<b>发明专利</b>
+##### Index
+ZL201911175456.0
+##### Abstract
+本发明公开了一种轨道式外卖取餐自动传送装置，主体轨道结构是由模块化的轨道零件以及舵机模块整合拼接而成，整体形成内外双层轨道结构，并且能够通过舵机实现弯道直道转化的功能。
+##### Keywords
+- 机构设计
+##### Actions
+###### DOC
+https://xueshu.baidu.com/usercenter/paper/show?paperid=1f7h0re0q3640p10cn0u06b0f4064588&site=xueshu_se&hitarticle=1
 
 ### Software Copyright
 #### 外卖分拣系统控制软件
@@ -128,6 +169,11 @@ https://xueshu.baidu.com/usercenter/paper/show?paperid=195a0ma0xf3p0ac0uk7q0p607
 ##### Index
 2019SR1273790
 
+#### 特种弹跳车APP控制软件
+##### Author
+<b>季源隆</b>;孙树文;蒋浩然;李溥钊等
+##### Index
+2020SR1556297
 
 ## Reward
 ### 第十三届 挑战杯 中国大学生创业计划竞赛&nbsp;<span class="highlight"><b>金奖</b></span>
