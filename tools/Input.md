@@ -1,6 +1,9 @@
 # 季源隆——个人主页
 
 ## News
+### 论文荣获<span class="highlight">2024 World Rehabilitation Robot Convention (WRRC 2024)</span> 会议<span class="highlight">最佳论文</span> 。
+#### Date
+2024-9-10
 ### 正在<span class="highlight">北京航空航天大学</span> (BUAA) 的生物医学与工程学院 进行有关<span class="highlight">下肢骨科围手术期康复治疗外骨骼</span>的项目研究。
 #### Date
 2023-9-01
@@ -13,8 +16,8 @@
 ### Field
 - 机器人学/控制和人机交互
 - 外骨骼/康复/仿生机器人机电设计
-- 绳驱动/拮抗驱动控制
-- 远程感知/多传感器融合
+- 绳驱动拮抗仿生关节设计
+- 神经网络自适应控制
 ### Contact
 #### GITHUB
 [YuanlongJi](https://github.com/YuanlongJi)
@@ -49,6 +52,27 @@ school1.png
 
 ## Publication
 ### Research
+#### Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
+##### Image
+paper_3.png
+##### Link
+https://doi.org/10.3390/app13095816
+##### Author
+ <b>季源隆</b>; 朗旭周; 武博; 郑权; 樊瑜波; 杨兴帮
+##### Date
+2023, May 8
+##### PubTitle
+2024 World Rehabilitation Robot Convention (WRRC 2024)
+##### Index
+<b>EI</b>检索 <b>最佳论文</b>
+##### Abstract
+在骨折手术后的骨组织增殖阶段，轴向机械刺激已被证明可以促进骨愈合。本研究介绍了一种利用耦合可移动滑轮机制（CMPM）的创新型下肢骨科康复外骨骼的结构机制、概念设计和初步实验。
+##### Keywords
+- 骨科康复外骨骼
+- 机电一体化设计
+##### Actions
+###### PDF
+chrome-extension://dagcmkpagjlhakfdhnbomgmjdpkdklff/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2F927b9669-7caa-3b53-93fc-47f9058ad7b0
 
 #### A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model
 ##### Image
