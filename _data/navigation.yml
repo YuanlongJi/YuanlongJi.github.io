@@ -5,8 +5,6 @@ main:
     url: /publications/
   - title: "Research"
     url: /projects/
-  - title: "CV"
-    url: /cv/
   - title: "Honors"
     url: /awards/
   - title: "Chinese"
@@ -18,8 +16,6 @@ cn:
     url: /cn/publications/
   - title: "科研项目"
     url: /cn/projects/
-  - title: "学术简历"
-    url: /cn/cv/
   - title: "学术荣誉"
     url: /cn/awards/
   - title: "英文版"

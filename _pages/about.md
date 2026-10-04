@@ -9,7 +9,7 @@ author_profile: true
 
 I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
 
-[Curriculum vitae](/cv/) · [All publications](/publications/) · [Email](mailto:jiyuanlong@buaa.edu.cn)
+[All publications](/publications/) · [Email](mailto:jiyuanlong@buaa.edu.cn)
 
 ## Research interests
 

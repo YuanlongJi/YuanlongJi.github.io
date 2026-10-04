@@ -9,7 +9,7 @@ author_profile: true
 
 我是北京航空航天大学生物与医学工程学院博士研究生季源隆，硕博连读，预计2027年7月毕业。我的研究围绕**让外骨骼从实验室走向生活**，结合人体运动感知、机电系统设计与人机协同控制，使可穿戴机器人适应真实使用场景。
 
-[学术简历](/cn/cv/) · [全部论文](/cn/publications/) · [电子邮箱](mailto:jiyuanlong@buaa.edu.cn)
+[全部论文](/cn/publications/) · [电子邮箱](mailto:jiyuanlong@buaa.edu.cn)
 
 ## 研究方向
 
