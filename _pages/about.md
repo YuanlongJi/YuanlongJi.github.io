@@ -1,40 +1,72 @@
 ---
+layout: single
+title: "Yuanlong Ji"
 permalink: /
-title: "Jasper Leo / Academic Blog 🛰"
-excerpt: "Jasper Leo / Academic Blog 🛰"
+lang: en
+redirect_from: ["/about/", "/about.html"]
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-9C27B0?style=plastic&logo=cplusplus&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
+
+[Curriculum vitae](/cv/) · [All publications](/publications/) · [Email](mailto:jiyuanlong@buaa.edu.cn)
+
+## Research interests
+
+- **Human-state estimation:** Continuous gait-phase estimation for synchronizing wearable assistance with human motion.
+- **Reconfigurable mechatronics:** Dual-mode actuators and modular mechanisms for rehabilitation and mobility assistance.
+- **Real-world assistance:** Visual terrain recognition, environmental adaptation and system validation for indoor and outdoor use.
+
+## Selected publications
+
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><div markdown="1">
+
+### [1] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
+
+**Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
+*IEEE Robotics and Automation Letters*  
+**RA-L · 2026 · First author · Accepted 16 September 2026**
+
+Switchable torque and tension output connects different assistance requirements within one cable-driven actuator.
 
 
+</div></div>
+
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="Wearable field experiments" loading="lazy"></a><figcaption>Wearable field experiments</figcaption></figure><div markdown="1">
+
+### [2] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
+
+**Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
+**TNSRE · 2025 · Co-first author, listed first · Published**
+
+Continuous gait-phase estimation for wearable assistance; reported steady-state phase RMSE: 2.729%.
 
 
+[Paper](https://doi.org/10.1109/TNSRE.2025.3621076)
 
-**Welcome!** This is my official academic blog, which can also be considered an electronic resume. Looking foward to have a nice chat with you, and I'd love to learn from you!
+</div></div>
 
-Who am I 🧑🏻‍💻
-------
-I am **Jiarun Liu (Jasper Leo)** from the School of Information and Communication Engineering (SICE), Beijing University of Posts and Telecommunications (BUPT), and I am currently studying for my master's degree. I am responsible for work and dare to challenge difficult problems.
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="Orthopedic rehabilitation system" loading="lazy"></a><figcaption>Orthopedic rehabilitation system</figcaption></figure><div markdown="1">
 
-I am currently studying in the Laboratory of Intelligent Systems under the State Key Laboratory of Network and Switching Technology, and my main research interests include natural language processing, reinforcement learning and so on. If you are interested in my work, please refer to my [Google Scholar personal page](https://scholar.google.com/citations?user=dP4KddUAAAAJ&hl=en).
+### [7] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
 
-I have a lot of hobbies too, I'm a very interesting person haha! If you have more time, go check out my **JasperGA** page, hope you enjoy it!
+**Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
+*World Rehabilitation Robot Convention, pp. 1–6*  
+**WRRC · 2024 · First author; Best Paper Award · Published**
+
+A coupled movable pulley mechanism supports versatile orthopedic rehabilitation; WRRC Best Paper Award.
+
+[Paper](https://doi.org/10.1109/WRRC62201.2024.10696897)
+
+[Full publication list →](/publications/)
 
 
-Contact Me 🧭
-------
-If you want to know more about me / job offer / working together / try something fun, Please contact me in one of these following ways
-- my **social media**: [twitter or X](https://twitter.com/leoAK123) 
-- my **video channel**: [bilibili Personal Channel](https://space.bilibili.com/474465629)
-- my **documentation workspace**: [Notion Projects Logs]([https://www.yuque.com/liujiarun-kfs4n](https://liujiarun01.notion.site/Lab-Working-b17b8d8aaa4040e0b974ca2fc96c8e0b?pvs=4))
-- my **personal email**: liujiarun01@126.com
-- my **working email**: liujiarun01@bupt.edu.cn
+</div></div>
+
+## Recent academic news
+
+- **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
+- **August 2026:** Oral presentation at ACIRS.
+- **2025:** Selected for the CAST doctoral-student science and technology talent development program.
 

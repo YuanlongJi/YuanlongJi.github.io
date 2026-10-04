@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China - Beijing"
-title                    : "Jasper Leo / Academic Blog 🛰"
+timezone: Asia/Shanghai
+title                    : "Yuanlong Ji"
 title_separator          : "-"
-name                     : &name "Liu Jiarun"
-description              : &description "Im a graduate student at Intelligent System Research Group, BUPT. My research fields include natural language processing and reinforcement learning."
-url                      : https://klgr123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuanlong Ji"
+description              : &description "Ph.D. Candidate in Biomedical Engineering at Beihang University. Research interests include rehabilitation and assistive robotics, exoskeleton systems, mechatronic design, gait phase estimation, and human-exoskeleton interaction."
+url                      : "https://yuanlongji.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "YuanlongJi/YuanlongJi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "leoAK123"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,58 +73,88 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Jasper Leo"
-  avatar           : "profile.png"
-  bio              : "Gain and loss are equal."
+  name             : "Yuanlong Ji"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Candidate in Biomedical Engineering, Beihang University. Rehabilitation Robotics | Exoskeleton Systems | Mechatronic Design"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=dP4KddUAAAAJ&hl=en
-  email            :
-  researchgate     : https://www.researchgate.net/profile/Jiarun-Liu-3
-  uri              :
+  employer         : "Beihang University"
+  email            : "jiyuanlong@buaa.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=B4Z9APIAAAAJ&hl=en"
+  github           : "YuanlongJi"
+  researchgate     : "https://www.researchgate.net/profile/Yuanlong-Ji-2"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook        :
   foursquare       :
-  github           : "klgr123"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "leoAK123"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCfL0M5hh6KnWp4OizzqkOBg"
+  youtube          :
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/474465629"
-  yuque            : "https://www.yuque.com/liujiarun-kfs4"
+  bilibili         :
+  yuque            :
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
+  - docs
+  - scripts
+  - assets/images/terrain-framework.png
+  - assets/images/reconfigurable-framework.png
+  - assets/images/simulation-actuator.png
+  - assets/images/review-framework.png
+  - files
+  - _posts
+  - _talks
+  - _teaching
+  - _teaching2
+  - _portfolio
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - README_.md
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+  - _pages/markdown.md
+  - _pages/page-archive.html
+  - _pages/talkmap.html
+  - _pages/teaching2.html
+  - _pages/posts.html
+  - _pages/tag-archive.html
+  - _pages/category-archive.html
+  - _pages/terms.md
+  - _pages/non-menu-page.md
+  - _pages/teaching.html
+  - _pages/talks.html
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
+  - _pages/portfolio.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -134,6 +164,11 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
+  - vendor
+  - run.ps1
+  - setup.ps1
+  - start.ps1
   - Gruntfile.js
   - LICENSE
   - README
@@ -189,6 +224,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 
 # Defaults
@@ -246,6 +284,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -257,7 +303,6 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

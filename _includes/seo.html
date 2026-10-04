@@ -6,8 +6,10 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
+{% assign profile_site_title = site.title %}
+{% if page.url contains "/cn/" %}{% assign profile_site_title = "季源隆" %}{% endif %}
 {% if page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: profile_site_title %}
 {% endif %}
 
 {% if seo_title %}
@@ -39,7 +41,7 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
+<meta property="og:locale" content="{{ page.lang | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 
