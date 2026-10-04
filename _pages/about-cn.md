@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="实地穿戴实验" loading="lazy"></a><figcaption>实地穿戴实验</figcaption></figure><div markdown="1">
 
-### [2] 基于人体运动隐式建模的实时步态相位估计
+### [5] 基于人体运动隐式建模的实时步态相位估计
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
