@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="实地穿戴实验" loading="lazy"></a><figcaption>实地穿戴实验</figcaption></figure><div markdown="1">
 
-### [5] 基于人体运动隐式建模的实时步态相位估计
+### [2] 基于人体运动隐式建模的实时步态相位估计
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
@@ -49,7 +49,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="骨科康复外骨骼系统" loading="lazy"></a><figcaption>骨科康复外骨骼系统</figcaption></figure><div markdown="1">
 
-### [7] 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验
+### [3] 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验
 
 **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
 *World Rehabilitation Robot Convention, pp. 1–6*  

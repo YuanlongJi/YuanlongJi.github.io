@@ -34,7 +34,7 @@ Switchable torque and tension output connects different assistance requirements 
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="Wearable field experiments" loading="lazy"></a><figcaption>Wearable field experiments</figcaption></figure><div markdown="1">
 
-### [5] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
+### [2] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
@@ -49,7 +49,7 @@ Continuous gait-phase estimation for wearable assistance; reported steady-state 
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="Orthopedic rehabilitation system" loading="lazy"></a><figcaption>Orthopedic rehabilitation system</figcaption></figure><div markdown="1">
 
-### [7] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
+### [3] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
 
 **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
 *World Rehabilitation Robot Convention, pp. 1–6*  
