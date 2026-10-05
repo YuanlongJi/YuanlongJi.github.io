@@ -21,4 +21,15 @@ First author · Accepted 16 September 2026
 
 A cable-driven actuator switches between torque and tension modes to support different exoskeleton assistance requirements. Accepted on 16 September 2026.
 
+## Supplementary video
+
+Mechanical configuration, torque/tension mode switching, preload adjustment and hand-interaction demonstrations.
+
+<details class="paper-video"><summary>Watch demonstration · RA-L supplementary video</summary>
+<video controls playsinline preload="none" poster="/assets/images/ral-video-poster.jpg" aria-label="RA-L dual-mode actuator demonstration" style="width:100%;height:auto;margin-top:12px;border-radius:6px;background:#101820">
+<source src="/assets/videos/ral-supplementary.mp4" type="video/mp4">
+</video>
+<p><a href="/assets/videos/ral-supplementary.mp4" download>Download video (MP4)</a></p>
+</details>
+
 [All publications](/publications/)

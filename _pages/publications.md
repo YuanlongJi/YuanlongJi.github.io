@@ -20,6 +20,14 @@ author_profile: true
 
 Switchable torque and tension output connects different assistance requirements within one cable-driven actuator.
 
+
+<details class="paper-video"><summary>Watch demonstration · RA-L supplementary video</summary>
+<video controls playsinline preload="none" poster="/assets/images/ral-video-poster.jpg" aria-label="RA-L dual-mode actuator demonstration" style="width:100%;height:auto;margin-top:12px;border-radius:6px;background:#101820">
+<source src="/assets/videos/ral-supplementary.mp4" type="video/mp4">
+</video>
+<p><a href="/assets/videos/ral-supplementary.mp4" download>Download video (MP4)</a></p>
+</details>
+
 </div></div>
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="Trajectory-planning framework" loading="lazy"></a><figcaption>Trajectory-planning framework</figcaption></figure><div markdown="1">
