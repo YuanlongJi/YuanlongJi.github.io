@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2026
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="双模式执行器结构" loading="lazy"></a><figcaption>双模式执行器结构</figcaption></figure><div markdown="1">
+<div class="paper-row"><div class="paper-media"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="双模式执行器结构" loading="lazy"></a><figcaption>双模式执行器结构</figcaption></figure><figure class="paper-figure video-figure"><a class="video-preview" href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener" aria-label="演示视频 · 点击放大"><img src="/assets/images/ral-video-poster.jpg" alt="演示视频 · 点击放大" loading="lazy"><span class="video-play" aria-hidden="true">▶</span></a><figcaption>演示视频 · 点击放大</figcaption></figure></div><div markdown="1">
 
 ### [1] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
 
@@ -21,12 +21,7 @@ author_profile: true
 在绳驱动执行器中切换力矩与张力输出，适应不同外骨骼辅助需求。
 
 
-<details class="paper-video"><summary>观看演示视频 · RA-L 补充材料</summary>
-<video controls playsinline preload="none" poster="/assets/images/ral-video-poster.jpg" aria-label="RA-L 双模式执行器演示视频" style="width:100%;height:auto;margin-top:12px;border-radius:6px;background:#101820">
-<source src="/assets/videos/ral-supplementary.mp4" type="video/mp4">
-</video>
-<p><a href="/assets/videos/ral-supplementary.mp4" download>下载视频（MP4）</a></p>
-</details>
+<a href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
 
 </div></div>
 
