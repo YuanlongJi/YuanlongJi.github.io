@@ -19,7 +19,7 @@ I am a PhD student in Biomedical Engineering at Beihang University in the integr
 
 ## Selected publications
 
-<div class="paper-row"><div class="paper-media"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><figure class="paper-figure video-figure"><a class="video-preview" href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener" aria-label="Demonstration · Open video"><img src="/assets/images/ral-video-poster.jpg" alt="Demonstration · Open video" loading="lazy"><span class="video-play" aria-hidden="true">▶</span></a><figcaption>Demonstration · Open video</figcaption></figure></div><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><div markdown="1">
 
 ### [1] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
 

@@ -15,7 +15,7 @@ Yuanlong Ji, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xi
 *IEEE Robotics and Automation Letters*  
 First author · Accepted 16 September 2026  
 
-<div class="detail-figure"><div class="paper-media"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><figure class="paper-figure video-figure"><a class="video-preview" href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener" aria-label="Demonstration · Open video"><img src="/assets/images/ral-video-poster.jpg" alt="Demonstration · Open video" loading="lazy"><span class="video-play" aria-hidden="true">▶</span></a><figcaption>Demonstration · Open video</figcaption></figure></div></div>
+<div class="detail-figure"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure></div>
 
 ## Research overview
 
