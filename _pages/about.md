@@ -19,7 +19,7 @@ I am a PhD student in Biomedical Engineering at Beihang University in the integr
 
 ## Selected achievements
 
-<div class="paper-row"><div class="talent-highlight" aria-label="National talent program"><span>2025</span><strong>CAST</strong><small>National talent program</small></div><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/cast-doctoral-selection.png" target="_blank" rel="noopener"><img src="/assets/images/cast-doctoral-selection.png" alt="CAST doctoral program selection" loading="lazy"></a><figcaption>CAST doctoral program selection</figcaption></figure><div markdown="1">
 
 ### [1] CAST Doctoral-Student Science and Technology Talent Development Program
 
