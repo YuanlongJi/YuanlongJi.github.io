@@ -5,6 +5,7 @@ permalink: /
 lang: en
 redirect_from: ["/about/", "/about.html"]
 author_profile: true
+show_title: false
 ---
 
 <div class="home-news" markdown="1">

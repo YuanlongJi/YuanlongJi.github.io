@@ -5,6 +5,7 @@ permalink: /cn/
 lang: zh-CN
 redirect_from: ["/cn/about/", "/cn/about.html"]
 author_profile: true
+show_title: false
 ---
 
 <div class="home-news" markdown="1">
