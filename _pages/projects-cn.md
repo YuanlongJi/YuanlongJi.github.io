@@ -33,28 +33,13 @@ author_profile: true
 
 ### 相关论文
 
-1. **面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制**  
+1. **Y. Ji** et al. 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制. *IEEE RA-L, 2026*（已录用）. [视频链接](/assets/videos/ral-supplementary.mp4)
 
-   *IEEE Robotics and Automation Letters*  
-   <span class="research-citation-meta">期刊论文 · RA-L · 2026 · 第一作者 · 2026.09.16录用</span>  
-   [视频链接](/assets/videos/ral-supplementary.mp4)
+2. **Y. Ji** et al. 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼. *arXiv:2609.25639, 2026*（预印本）. [arXiv](https://arxiv.org/abs/2609.25639)
 
-2. **具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼**  
+3. **Y. Ji** et al. 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验. *WRRC, 2024, pp. 1–6*（最佳论文奖）. [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
 
-   *arXiv:2609.25639*  
-   <span class="research-citation-meta">2026 · 第一作者 · 预印本 · 2026年9月22日公开</span>  
-   [arXiv](https://arxiv.org/abs/2609.25639)
-
-3. **基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验**  
-
-   *World Rehabilitation Robot Convention, pp. 1–6*  
-   <span class="research-citation-meta">会议论文 · WRRC · 2024 · 第一作者；最佳论文奖 · 已发表</span>  
-   [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
-
-4. **基于交叉四杆机构的变刚度执行器优化设计与仿真验证**  
-
-   *11th Asia-Pacific Conference on Intelligent Robot Systems*  
-   <span class="research-citation-meta">会议论文 · ACIRS · 2026 · 第一作者 · 已录用；2026.08口头报告</span>
+4. **Y. Ji** et al. 基于交叉四杆机构的变刚度执行器优化设计与仿真验证. *ACIRS, 2026*（已录用）.
 
 </div>
 
@@ -78,17 +63,9 @@ author_profile: true
 
 ### 相关论文
 
-1. **基于人体运动隐式建模的实时步态相位估计**  
+1. **Y. Ji** et al. 基于人体运动隐式建模的实时步态相位估计. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
 
-   *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
-   <span class="research-citation-meta">期刊论文 · TNSRE · 2025 · 共同第一作者、署名首位 · 已发表</span>  
-   [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
-
-2. **下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动**  
-
-   *IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
-   <span class="research-citation-meta">期刊论文 · RBME · 2026 · 第四作者 · 已发表</span>  
-   [DOI](https://doi.org/10.1109/RBME.2025.3646165)
+2. Q. Ye, X. Yang, R. Zhao, **Y. Ji**, et al. 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动. *IEEE RBME, 2026, 19: 41–64*. [DOI](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div>
 
@@ -112,17 +89,9 @@ author_profile: true
 
 ### 相关论文
 
-1. **双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制**  
+1. W. Liu, **Y. Ji**, et al. 双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
-   *IFAC-PapersOnLine, 59(35): 362–367*  
-   <span class="research-citation-meta">会议论文 · IFAC HMS · 2025 · 第二作者；会议论文 · 已发表</span>  
-   [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
-
-2. **基于空间分类模型的康复机器人安全导纳边界算法**  
-
-   *Applied Sciences, 13(9): 5816*  
-   <span class="research-citation-meta">期刊论文 · Applied Sciences · 2023 · 第二作者，导师第一作者，学生一作 · 已发表</span>  
-   [DOI](https://doi.org/10.3390/app13095816)
+2. Y. Tao, **Y. Ji**, et al. 基于空间分类模型的康复机器人安全导纳边界算法. *Applied Sciences, 2023, 13(9): 5816*. [DOI](https://doi.org/10.3390/app13095816)
 
 </div>
 

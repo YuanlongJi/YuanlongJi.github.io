@@ -33,28 +33,13 @@ I investigate the co-design of actuation mechanisms, transmissions and wearable 
 
 ### Selected publications
 
-1. **Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons**  
+1. **Y. Ji** et al. Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons. *IEEE RA-L, 2026* (accepted). [Video](/assets/videos/ral-supplementary.mp4)
 
-   *IEEE Robotics and Automation Letters*  
-   <span class="research-citation-meta">Journal article · RA-L · 2026 · First author · Accepted 16 September 2026</span>  
-   [Video](/assets/videos/ral-supplementary.mp4)
+2. **Y. Ji** et al. A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation. *arXiv:2609.25639, 2026* (preprint). [arXiv](https://arxiv.org/abs/2609.25639)
 
-2. **A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation**  
+3. **Y. Ji** et al. Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM). *WRRC, 2024, pp. 1–6* (Best Paper Award). [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
 
-   *arXiv:2609.25639*  
-   <span class="research-citation-meta">2026 · First author · Preprint · Posted 22 September 2026</span>  
-   [arXiv](https://arxiv.org/abs/2609.25639)
-
-3. **Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)**  
-
-   *World Rehabilitation Robot Convention, pp. 1–6*  
-   <span class="research-citation-meta">Conference paper · WRRC · 2024 · First author; Best Paper Award · Published</span>  
-   [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
-
-4. **Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism**  
-
-   *11th Asia-Pacific Conference on Intelligent Robot Systems*  
-   <span class="research-citation-meta">Conference paper · ACIRS · 2026 · First author · Accepted; oral presentation in August 2026</span>
+4. **Y. Ji** et al. Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism. *ACIRS, 2026* (accepted).
 
 </div>
 
@@ -78,17 +63,9 @@ Assistance in real-world settings requires an exoskeleton to recognize the user�
 
 ### Selected publications
 
-1. **Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation**  
+1. **Y. Ji** et al. Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
 
-   *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
-   <span class="research-citation-meta">Journal article · TNSRE · 2025 · Co-first author, listed first · Published</span>  
-   [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
-
-2. **Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness**  
-
-   *IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
-   <span class="research-citation-meta">Journal article · RBME · 2026 · Fourth author · Published</span>  
-   [DOI](https://doi.org/10.1109/RBME.2025.3646165)
+2. Q. Ye, X. Yang, R. Zhao, **Y. Ji**, et al. Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness. *IEEE RBME, 2026, 19: 41–64*. [DOI](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div>
 
@@ -112,17 +89,9 @@ For robots in direct physical contact with people, I study safe admittance bound
 
 ### Selected publications
 
-1. **A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton**  
+1. W. Liu, **Y. Ji**, et al. A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
-   *IFAC-PapersOnLine, 59(35): 362–367*  
-   <span class="research-citation-meta">Conference paper · IFAC HMS · 2025 · Second author; conference paper · Published</span>  
-   [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
-
-2. **A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model**  
-
-   *Applied Sciences, 13(9): 5816*  
-   <span class="research-citation-meta">Journal article · Applied Sciences · 2023 · Second author; supervisor first, first student author · Published</span>  
-   [DOI](https://doi.org/10.3390/app13095816)
+2. Y. Tao, **Y. Ji**, et al. A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model. *Applied Sciences, 2023, 13(9): 5816*. [DOI](https://doi.org/10.3390/app13095816)
 
 </div>
 
