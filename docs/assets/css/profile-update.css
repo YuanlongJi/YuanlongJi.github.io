@@ -84,3 +84,49 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 
 .home-news{background:#f4f7fa;border-left:3px solid var(--blue);padding:17px 22px;margin:0 0 28px;}.page__content .home-news h2{margin:0 0 12px;padding:0;border:0;font-size:20px;}.home-news ul{margin:0;padding-left:19px;font-size:13px;line-height:1.8;}.home-news li{margin-bottom:5px;}.home-news li:last-child{margin-bottom:0;}
 .education-list{margin:0 0 25px;}.education-entry{display:grid;grid-template-columns:155px 1fr;gap:22px;padding:15px 0;border-bottom:1px solid var(--line);font-size:14px;}.education-entry:last-child{border:0;}.education-date{color:var(--muted);font-size:13px;line-height:1.8;}.education-entry strong{color:var(--ink);}.education-entry p{font-size:13px;margin:5px 0 0;line-height:1.7;color:var(--muted);}@media(max-width:600px){.education-entry{grid-template-columns:1fr;gap:5px;}.home-news{padding:15px 17px;}}
+
+/* Shared compact rhythm across home, publications, research, honors and details. */
+.masthead__inner-wrap{padding-top:14px;padding-bottom:14px;}
+#main{margin-top:34px;margin-bottom:52px;}
+.page__title{margin-bottom:18px;}
+.page__content{line-height:1.7;}
+.page__content>p:first-child{line-height:1.75;}
+.page__content p{margin-bottom:12px;}
+.page__content h2{margin:28px 0 15px;padding-bottom:9px;}
+.page__content h3{margin:22px 0 9px;}
+.page__content li{margin-bottom:7px;}
+.page__content ul,.page__content ol{margin-bottom:17px;}
+.paper-row{gap:22px;padding:18px 0 20px;}
+.page__content .paper-row h3{margin:0 0 8px;}
+.paper-row p{margin-bottom:7px;line-height:1.65;}
+.paper-row p:last-child{margin-bottom:0;}
+.paper-figure figcaption{margin-top:6px;}
+.detail-figure{margin:18px 0;}
+.author__name{margin-top:19px;}
+.author__bio{line-height:1.7!important;margin-top:8px;}
+.author__urls li{margin:6px 0;}
+.page__footer footer{padding-top:19px;padding-bottom:19px;}
+.research-intro{margin-bottom:20px;line-height:1.75;}
+.research-index{margin-bottom:24px;}
+.research-module{padding:22px;margin-bottom:26px;}
+.research-number{margin-bottom:7px;}
+.page__content .research-module h2{margin:0 0 12px;}
+.research-module>p{line-height:1.75;}
+.research-module>ul{margin:14px 0 18px;line-height:1.7;}
+.research-module>ul li{margin-bottom:6px;}
+.research-gallery{margin:18px 0;}
+.research-gallery figcaption{padding:8px 10px;min-height:44px;}
+.page__content .research-publications h3{margin:0 0 7px;}
+.research-publications ol{margin:0;}
+.research-publications li{margin-bottom:6px;}
+.research-publications p{margin:0;}
+.home-news{padding:14px 18px;margin-bottom:22px;}
+.page__content .home-news h2{margin:0 0 9px;}
+.home-news ul{margin:0;line-height:1.7;}
+.home-news li{margin-bottom:4px;}
+.education-list{margin-bottom:18px;}
+.education-entry{padding:11px 0;gap:18px;}
+.education-entry p{margin:3px 0 0;}
+@media(min-width:925px){#main{gap:48px;}}
+@media(max-width:924px){#main{margin-top:24px;}.sidebar{padding-bottom:16px;margin-bottom:22px;}.author__name{margin-top:0;}}
+@media(max-width:600px){#main{margin:20px auto 34px;padding:0 18px;}.masthead__inner-wrap{padding:11px 18px;}.page__title{margin-bottom:16px;}.page__content h2{margin-top:25px;}.paper-row{gap:12px;padding:16px 0 18px;}.research-module{padding:17px 14px;margin-bottom:21px;}.research-gallery{margin:15px 0;}.research-gallery figcaption{min-height:0;}.education-entry{gap:4px;}.home-news{padding:13px 15px;}}
