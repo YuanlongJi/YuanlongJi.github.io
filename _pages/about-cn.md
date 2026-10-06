@@ -28,7 +28,7 @@ show_title: false
 
 <div class="education-list">
 <div class="education-entry"><span class="education-date">2023.09—至今</span><strong>北京航空航天大学</strong><span>生物医学工程 · 博士研究生（硕博连读） · 博士生导师：杨兴帮 副教授</span></div>
-<div class="education-entry"><span class="education-date">2018—2022</span><strong>北京工业大学</strong><span>机械工程 · 本科（卓越工程师班） · 本科导师：刘志峰 教授</span></div>
+<div class="education-entry"><span class="education-date">2018.09—2022.07</span><strong>北京工业大学</strong><span>机械工程 · 本科（卓越工程师班） · 本科导师：刘志峰 教授</span></div>
 </div>
 
 ## 研究方向

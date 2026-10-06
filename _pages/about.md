@@ -28,7 +28,7 @@ I am a PhD student in Biomedical Engineering at Beihang University in the integr
 
 <div class="education-list">
 <div class="education-entry"><span class="education-date">Sep 2023–Present</span><strong>Beihang University</strong><span>Biomedical Engineering · PhD (integrated MSc–PhD) · Advisor: Assoc. Prof. Xingbang Yang</span></div>
-<div class="education-entry"><span class="education-date">2018–2022</span><strong>Beijing University of Technology</strong><span>Mechanical Engineering · Bachelor’s (Excellent Engineer Program) · Advisor: Prof. Zhifeng Liu</span></div>
+<div class="education-entry"><span class="education-date">Sep 2018–Jul 2022</span><strong>Beijing University of Technology</strong><span>Mechanical Engineering · Bachelor’s (Excellent Engineer Program) · Advisor: Prof. Zhifeng Liu</span></div>
 </div>
 
 ## Research interests
