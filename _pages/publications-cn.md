@@ -10,9 +10,23 @@ author_profile: true
 
 ## 2026
 
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="台架与背包双构型" loading="lazy"></a><figcaption>台架与背包双构型</figcaption></figure><div markdown="1">
+
+### [1] 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼
+
+**Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
+*arXiv:2609.25639*  
+**2026 · 第一作者 · 预印本 · 2026年9月22日公开**
+
+共用一套髋关节穿戴接口，在台架式实验平台与背包式户外助行配置之间切换。3名健康受试者完成30次切换试验，平均切换用时为30.1 ± 16.3秒。
+
+[摘要](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639) · <a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
+
+</div></div>
+
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="双模式执行器结构" loading="lazy"></a><figcaption>双模式执行器结构</figcaption></figure><div markdown="1">
 
-### [1] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
+### [2] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
 
 **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
 *IEEE Robotics and Automation Letters*  
@@ -22,20 +36,6 @@ author_profile: true
 
 
 <a href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
-
-</div></div>
-
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="辅助轨迹规划分析框架" loading="lazy"></a><figcaption>辅助轨迹规划分析框架</figcaption></figure><div markdown="1">
-
-### [2] 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动
-
-Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
-*IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
-**期刊论文 · RBME · 2026 · 第四作者 · 已发表**
-
-梳理辅助轨迹规划、多模态感知和环境自适应运动之间的方法联系。
-
-[论文链接](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div></div>
 
@@ -51,17 +51,17 @@ Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Y
 
 </div></div>
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="台架与背包双构型" loading="lazy"></a><figcaption>台架与背包双构型</figcaption></figure><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="辅助轨迹规划分析框架" loading="lazy"></a><figcaption>辅助轨迹规划分析框架</figcaption></figure><div markdown="1">
 
-### [4] 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼
+### [4] 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动
 
-**Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
-*arXiv:2609.25639*  
-**2026 · 第一作者 · 预印本 · 2026年9月22日公开**
+Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
+*IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
+**期刊论文 · RBME · 2026 · 第四作者 · 已发表**
 
-共用一套髋关节穿戴接口，在台架式实验平台与背包式户外助行配置之间切换。3名健康受试者完成30次切换试验，平均切换用时为30.1 ± 16.3秒。
+梳理辅助轨迹规划、多模态感知和环境自适应运动之间的方法联系。
 
-[摘要](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639) · <a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
+[论文链接](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div></div>
 

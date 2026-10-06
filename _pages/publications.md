@@ -10,9 +10,23 @@ author_profile: true
 
 ## 2026
 
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="Bench and backpack configurations" loading="lazy"></a><figcaption>Bench and backpack configurations</figcaption></figure><div markdown="1">
+
+### [1] A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation
+
+**Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
+*arXiv:2609.25639*  
+**2026 · First author · Preprint · Posted 22 September 2026**
+
+A shared wearable hip interface supports both bench-mounted laboratory experiments and backpack-mounted outdoor walking. Across 30 trials with three healthy participants, configuration switching took 30.1 ± 16.3 seconds.
+
+[Abstract](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639) · <a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" target="_blank" rel="noopener">Video</a>
+
+</div></div>
+
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><div markdown="1">
 
-### [1] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
+### [2] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
 
 **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
 *IEEE Robotics and Automation Letters*  
@@ -22,20 +36,6 @@ Switchable torque and tension output connects different assistance requirements 
 
 
 <a href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener">Video</a>
-
-</div></div>
-
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="Trajectory-planning framework" loading="lazy"></a><figcaption>Trajectory-planning framework</figcaption></figure><div markdown="1">
-
-### [2] Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness
-
-Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
-*IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
-**Journal article · RBME · 2026 · Fourth author · Published**
-
-A review connecting assistive trajectory planning, multimodal awareness and environment-adaptive locomotion.
-
-[Paper](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div></div>
 
@@ -51,17 +51,17 @@ Mechanism optimization and simulation validation of a variable-stiffness actuato
 
 </div></div>
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="Bench and backpack configurations" loading="lazy"></a><figcaption>Bench and backpack configurations</figcaption></figure><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="Trajectory-planning framework" loading="lazy"></a><figcaption>Trajectory-planning framework</figcaption></figure><div markdown="1">
 
-### [4] A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation
+### [4] Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness
 
-**Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
-*arXiv:2609.25639*  
-**2026 · First author · Preprint · Posted 22 September 2026**
+Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
+*IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
+**Journal article · RBME · 2026 · Fourth author · Published**
 
-A shared wearable hip interface supports both bench-mounted laboratory experiments and backpack-mounted outdoor walking. Across 30 trials with three healthy participants, configuration switching took 30.1 ± 16.3 seconds.
+A review connecting assistive trajectory planning, multimodal awareness and environment-adaptive locomotion.
 
-[Abstract](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639) · <a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" target="_blank" rel="noopener">Video</a>
+[Paper](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div></div>
 
