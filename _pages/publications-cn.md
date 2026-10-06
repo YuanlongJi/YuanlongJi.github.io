@@ -61,7 +61,7 @@ Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Y
 
 共用一套髋关节穿戴接口，在台架式实验平台与背包式户外助行配置之间切换。3名健康受试者完成30次切换试验，平均切换用时为30.1 ± 16.3秒。
 
-[摘要](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639)
+[摘要](https://arxiv.org/abs/2609.25639) · [PDF](https://arxiv.org/pdf/2609.25639) · <a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
 
 </div></div>
 
