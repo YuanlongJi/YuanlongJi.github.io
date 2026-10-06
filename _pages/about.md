@@ -7,9 +7,29 @@ redirect_from: ["/about/", "/about.html"]
 author_profile: true
 ---
 
+<div class="home-news" markdown="1">
+
+## Latest news
+
+- **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
+- **August 2026:** Oral presentation at ACIRS.
+- **2025:** Selected for the CAST doctoral-student science and technology talent development program.
+
+</div>
+
+## About me
+
+
 I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
 
 [All publications](/publications/) · [Email](mailto:jiyuanlong@buaa.edu.cn)
+
+## Education
+
+<div class="education-list">
+<div class="education-entry"><div class="education-date">Sep 2023–Present</div><div><strong>Beihang University</strong><p>School of Biological Science and Medical Engineering · Biomedical Engineering</p><p>PhD student, integrated master’s–PhD track · Expected July 2027</p></div></div>
+<div class="education-entry"><div class="education-date">2018–2022</div><div><strong>Beijing University of Technology</strong><p>Bachelor’s degree in Mechanical Engineering</p><p>Excellent Engineer Program</p></div></div>
+</div>
 
 ## Research interests
 
@@ -91,10 +111,3 @@ A review connecting assistive trajectory planning, multimodal awareness and envi
 </div></div>
 
 [Full publication list →](/publications/)
-
-## Recent academic news
-
-- **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
-- **August 2026:** Oral presentation at ACIRS.
-- **2025:** Selected for the CAST doctoral-student science and technology talent development program.
-

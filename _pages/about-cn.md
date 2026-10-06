@@ -7,9 +7,29 @@ redirect_from: ["/cn/about/", "/cn/about.html"]
 author_profile: true
 ---
 
+<div class="home-news" markdown="1">
+
+## 最新消息
+
+- **2026.09：** 双模式执行器论文获机器人与自动化快报（RA-L）录用。
+- **2026.08：** 在亚太智能机器人系统会议（ACIRS）作口头报告。
+- **2025：** 入选中国科协青年科技人才培育工程博士生专项计划。
+
+</div>
+
+## 个人简介
+
+
 我是北京航空航天大学生物与医学工程学院博士研究生季源隆，硕博连读，预计2027年7月毕业。我的研究围绕**让外骨骼从实验室走向生活**，结合人体运动感知、机电系统设计与人机协同控制，使可穿戴机器人适应真实使用场景。
 
 [全部论文](/cn/publications/) · [电子邮箱](mailto:jiyuanlong@buaa.edu.cn)
+
+## 教育经历
+
+<div class="education-list">
+<div class="education-entry"><div class="education-date">2023.09—至今</div><div><strong>北京航空航天大学</strong><p>生物与医学工程学院 · 生物医学工程</p><p>博士研究生（硕博连读） · 预计2027年7月毕业</p></div></div>
+<div class="education-entry"><div class="education-date">2018—2022</div><div><strong>北京工业大学</strong><p>材料与制造学部 · 机械工程本科</p><p>卓越工程师班</p></div></div>
+</div>
 
 ## 研究方向
 
@@ -91,10 +111,3 @@ Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Y
 </div></div>
 
 [查看完整论文列表 →](/cn/publications/)
-
-## 近期学术进展
-
-- **2026.09：** 双模式执行器论文获机器人与自动化快报（RA-L）录用。
-- **2026.08：** 在亚太智能机器人系统会议（ACIRS）作口头报告。
-- **2025：** 入选中国科协青年科技人才培育工程博士生专项计划。
-
