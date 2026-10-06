@@ -63,7 +63,7 @@ author_profile: true
 
 ### 相关论文
 
-1. **Y. Ji** et al. 基于人体运动隐式建模的实时步态相位估计. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
+1. **Y. Ji** et al. 基于人体运动隐式建模的实时步态相位估计. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076) · [数据集](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
 
 2. Q. Ye, X. Yang, R. Zhao, **Y. Ji**, et al. 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动. *IEEE RBME, 2026, 19: 41–64*. [DOI](https://doi.org/10.1109/RBME.2025.3646165)
 

@@ -46,7 +46,7 @@ Switchable torque and tension output connects different assistance requirements 
 Continuous gait-phase estimation for wearable assistance; reported steady-state phase RMSE: 2.729%.
 
 
-[Paper](https://doi.org/10.1109/TNSRE.2025.3621076)
+[Paper](https://doi.org/10.1109/TNSRE.2025.3621076) · [Dataset](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
 
 </div></div>
 

@@ -23,6 +23,6 @@ Co-first author, listed first · Published
 
 Real-time gait-phase estimation provides continuous human-motion information for exoskeleton assistance. The reported steady-state phase RMSE is 2.729%. This is a phase-estimation error, not a classification accuracy.
 
-[Paper / DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
+[Paper / DOI](https://doi.org/10.1109/TNSRE.2025.3621076) · [Dataset](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
 
 [All publications](/publications/)
