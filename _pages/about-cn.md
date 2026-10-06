@@ -17,11 +17,21 @@ author_profile: true
 - **可重构机电系统：** 双模式执行器与模块化机构，适应康复训练和行动辅助的不同需求。
 - **真实场景辅助：** 将视觉地形识别、环境适应和系统验证结合，面向室内外使用。
 
-## 代表性论文
+## 代表性成果
+
+<div class="paper-row"><div class="talent-highlight" aria-label="国家级人才项目"><span>2025</span><strong>CAST</strong><small>国家级人才项目</small></div><div markdown="1">
+
+### [1] 中国科协青年科技人才培育工程博士生专项计划
+
+2025年入选中国科协青年科技人才培育工程博士生专项计划，国家级青年科技人才培养项目。
+
+[学术荣誉](/cn/awards/)
+
+</div></div>
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="双模式执行器结构" loading="lazy"></a><figcaption>双模式执行器结构</figcaption></figure><div markdown="1">
 
-### [1] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
+### [2] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
 
 **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
 *IEEE Robotics and Automation Letters*  
@@ -37,7 +47,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="实地穿戴实验" loading="lazy"></a><figcaption>实地穿戴实验</figcaption></figure><div markdown="1">
 
-### [2] 基于人体运动隐式建模的实时步态相位估计
+### [3] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
@@ -52,7 +62,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="骨科康复外骨骼系统" loading="lazy"></a><figcaption>骨科康复外骨骼系统</figcaption></figure><div markdown="1">
 
-### [3] 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验
+### [4] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
 
 **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
 *World Rehabilitation Robot Convention, pp. 1–6*  
@@ -62,10 +72,25 @@ author_profile: true
 
 [论文链接](https://doi.org/10.1109/WRRC62201.2024.10696897)
 
-[查看完整论文列表 →](/cn/publications/)
 
 
 </div></div>
+
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="辅助轨迹规划分析框架" loading="lazy"></a><figcaption>辅助轨迹规划分析框架</figcaption></figure><div markdown="1">
+
+### [5] Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness
+
+Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
+*IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
+**期刊论文 · RBME · 2026 · 第四作者 · 已发表**
+
+梳理辅助轨迹规划、多模态感知和环境自适应运动之间的方法联系。
+
+[论文链接](https://doi.org/10.1109/RBME.2025.3646165)
+
+</div></div>
+
+[查看完整论文列表 →](/cn/publications/)
 
 ## 近期学术进展
 
