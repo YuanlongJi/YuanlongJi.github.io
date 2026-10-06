@@ -40,7 +40,7 @@ show_title: false
 
 ## 代表性成果
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/cast-doctoral-selection.png" target="_blank" rel="noopener"><img src="/assets/images/cast-doctoral-selection.png" alt="青陪计划入选证明" loading="lazy"></a><figcaption>青陪计划入选证明</figcaption></figure><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/cast-doctoral-selection.png" target="_blank" rel="noopener"><img src="/assets/images/cast-doctoral-selection.png" alt="青培计划入选证明" loading="lazy"></a><figcaption>青培计划入选证明</figcaption></figure><div markdown="1">
 
 ### [1] 中国科协青年科技人才培育工程博士生专项计划
 

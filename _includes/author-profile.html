@@ -2,7 +2,7 @@
 {% assign zh = false %}{% if page.url contains '/cn/' %}{% assign zh = true %}{% endif %}
 <div itemscope itemtype="https://schema.org/Person">
 <div class="author__avatar"><img src="{{ base_path }}/images/{{ site.author.avatar }}" alt="{% if zh %}季源隆{% else %}Yuanlong Ji{% endif %}"></div>
-<div class="author__content"><h3 class="author__name">{% if zh %}季源隆{% else %}Yuanlong Ji{% endif %}</h3><p class="author__bio">{% if zh %}生物医学工程博士研究生<br>北京航空航天大学<br>预计2027年7月毕业{% else %}PhD student in Biomedical Engineering<br>Beihang University<br>Expected graduation: July 2027{% endif %}</p></div>
+<div class="author__content"><p class="author__bio">{% if zh %}生物医学工程博士研究生<br>北京航空航天大学<br>预计2027年7月毕业{% else %}PhD student in Biomedical Engineering<br>Beihang University<br>Expected graduation: July 2027{% endif %}</p></div>
 <div class="author__urls-wrapper"><button class="btn btn--inverse">{% if zh %}联系方式{% else %}Contact{% endif %}</button><ul class="author__urls social-icons">
 <li>{% if zh %}北京，中国{% else %}Beijing, China{% endif %}</li>
 <li><a href="mailto:{{ site.author.email }}">{% if zh %}电子邮箱{% else %}Email{% endif %}</a></li>

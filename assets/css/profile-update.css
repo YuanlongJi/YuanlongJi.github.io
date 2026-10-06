@@ -130,3 +130,5 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 @media(min-width:925px){#main{gap:48px;}}
 @media(max-width:924px){#main{margin-top:24px;}.sidebar{padding-bottom:16px;margin-bottom:22px;}.author__name{margin-top:0;}}
 @media(max-width:600px){#main{margin:20px auto 34px;padding:0 18px;}.masthead__inner-wrap{padding:11px 18px;}.page__title{margin-bottom:16px;}.page__content h2{margin-top:25px;}.paper-row{gap:12px;padding:16px 0 18px;}.research-module{padding:17px 14px;margin-bottom:21px;}.research-gallery{margin:15px 0;}.research-gallery figcaption{min-height:0;}.education-entry{gap:4px;}.home-news{padding:13px 15px;}}
+
+@media(min-width:925px){.author__content{padding-top:15px;}}
