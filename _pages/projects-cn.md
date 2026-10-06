@@ -33,13 +33,13 @@ author_profile: true
 
 ### 相关论文
 
-1. **Y. Ji** et al. 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制. *IEEE RA-L, 2026*（已录用）. [视频链接](/assets/videos/ral-supplementary.mp4)
+1. **Y. Ji** et al. Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons. *IEEE RA-L, 2026* (accepted). [Video](/assets/videos/ral-supplementary.mp4)
 
-2. **Y. Ji** et al. 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼. *arXiv:2609.25639, 2026*（预印本）. [arXiv](https://arxiv.org/abs/2609.25639)
+2. **Y. Ji** et al. A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation. *arXiv:2609.25639, 2026* (preprint). [arXiv](https://arxiv.org/abs/2609.25639)
 
-3. **Y. Ji** et al. 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验. *WRRC, 2024, pp. 1–6*（最佳论文奖）. [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
+3. **Y. Ji** et al. Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM). *WRRC, 2024, pp. 1–6* (Best Paper Award). [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
 
-4. **Y. Ji** et al. 基于交叉四杆机构的变刚度执行器优化设计与仿真验证. *ACIRS, 2026*（已录用）.
+4. **Y. Ji** et al. Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism. *ACIRS, 2026* (accepted).
 
 </div>
 
@@ -63,9 +63,9 @@ author_profile: true
 
 ### 相关论文
 
-1. **Y. Ji** et al. 基于人体运动隐式建模的实时步态相位估计. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076) · [数据集](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
+1. **Y. Ji** et al. Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation. *IEEE TNSRE, 2025, 33: 4124–4136*. [DOI](https://doi.org/10.1109/TNSRE.2025.3621076) · [Dataset](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
 
-2. Q. Ye, X. Yang, R. Zhao, **Y. Ji**, et al. 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动. *IEEE RBME, 2026, 19: 41–64*. [DOI](https://doi.org/10.1109/RBME.2025.3646165)
+2. Q. Ye, X. Yang, R. Zhao, **Y. Ji**, et al. Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness. *IEEE RBME, 2026, 19: 41–64*. [DOI](https://doi.org/10.1109/RBME.2025.3646165)
 
 </div>
 
@@ -89,9 +89,9 @@ author_profile: true
 
 ### 相关论文
 
-1. W. Liu, **Y. Ji**, et al. 双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
+1. W. Liu, **Y. Ji**, et al. A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
-2. Y. Tao, **Y. Ji**, et al. 基于空间分类模型的康复机器人安全导纳边界算法. *Applied Sciences, 2023, 13(9): 5816*. [DOI](https://doi.org/10.3390/app13095816)
+2. Y. Tao, **Y. Ji**, et al. A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model. *Applied Sciences, 2023, 13(9): 5816*. [DOI](https://doi.org/10.3390/app13095816)
 
 </div>
 
