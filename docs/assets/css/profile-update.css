@@ -77,3 +77,5 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 .research-publications li:last-child{margin-bottom:0;}
 .research-publications p{display:inline;margin:0;}.research-publications strong{font-weight:600;color:var(--ink);}.research-publications em{font-style:italic;}.research-publications a{white-space:nowrap;}
 @media(max-width:600px){.research-module{padding:20px 16px;margin-bottom:26px;}.page__content .research-module h2{font-size:21px;}.research-gallery{grid-template-columns:1fr;gap:14px;}.research-gallery a{height:230px;}.research-gallery figcaption{min-height:0;}.research-intro{padding-left:14px;}.research-index{gap:7px;}.research-index a{padding:7px 9px;}}
+
+.site-view-count{font-size:12px;color:var(--muted);margin-top:10px;}.site-view-count span{font-variant-numeric:tabular-nums;color:var(--blue);font-weight:600;margin-left:5px;}
