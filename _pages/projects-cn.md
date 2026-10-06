@@ -6,7 +6,17 @@ lang: zh-CN
 author_profile: true
 ---
 
+<div class="research-intro" markdown="1">
+
 我以技术骨干身份参与国家自然科学基金面上项目（2025–2028，项目经费48万元）及北京市自然科学基金—海淀联合基金项目（2023–2026，20万元），围绕外骨骼肌骨防护与骨科康复开展研究；曾主持、参与两项国家级大学生创新训练项目（经费分别为1万元、2万元），并主持北京工业大学星火基金重点项目（3000元）。这些经历贯穿机械设计、原型研制、感知控制与系统验证，研究主线是让外骨骼从实验室走向生活。
+
+</div>
+
+<nav class="research-index" aria-label="研究方向"><a href="#research-1"><span>01</span> 机电设计</a><a href="#research-2"><span>02</span> 感知与规划</a><a href="#research-3"><span>03</span> 交互控制</a></nav>
+
+<section class="research-module" id="research-1" markdown="1">
+
+<div class="research-number">研究方向 / 01</div>
 
 ## 绳驱动外骨骼机电一体化设计
 
@@ -18,32 +28,41 @@ author_profile: true
 - 研制台架与背包双构型髋关节外骨骼；3名受试者的30次试验中，平均配置切换用时30.1 ± 16.3秒。
 - 开展耦合动滑轮康复外骨骼及交叉四杆变刚度机构的设计与验证。
 
+
+<div class="research-publications" markdown="1">
+
 ### 相关论文
 
 1. **面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制**  
-   **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
+
    *IEEE Robotics and Automation Letters*  
-   **期刊论文 · RA-L · 2026 · 第一作者 · 2026.09.16录用**
+   <span class="research-citation-meta">期刊论文 · RA-L · 2026 · 第一作者 · 2026.09.16录用</span>  
    [视频链接](/assets/videos/ral-supplementary.mp4)
 
 2. **具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼**  
-   **Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
+
    *arXiv:2609.25639*  
-   **2026 · 第一作者 · 预印本 · 2026年9月22日公开**
+   <span class="research-citation-meta">2026 · 第一作者 · 预印本 · 2026年9月22日公开</span>  
    [arXiv](https://arxiv.org/abs/2609.25639)
 
 3. **基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验**  
-   **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
+
    *World Rehabilitation Robot Convention, pp. 1–6*  
-   **会议论文 · WRRC · 2024 · 第一作者；最佳论文奖 · 已发表**
+   <span class="research-citation-meta">会议论文 · WRRC · 2024 · 第一作者；最佳论文奖 · 已发表</span>  
    [DOI](https://doi.org/10.1109/WRRC62201.2024.10696897)
 
 4. **基于交叉四杆机构的变刚度执行器优化设计与仿真验证**  
-   **Yuanlong Ji**, Ruizhe Jiang, Xiangyu Xie, Junheng Lin, Dongrun Jin, Xingbang Yang  
-   *11th Asia-Pacific Conference on Intelligent Robot Systems*  
-   **会议论文 · ACIRS · 2026 · 第一作者 · 已录用；2026.08口头报告**
 
----
+   *11th Asia-Pacific Conference on Intelligent Robot Systems*  
+   <span class="research-citation-meta">会议论文 · ACIRS · 2026 · 第一作者 · 已录用；2026.08口头报告</span>
+
+</div>
+
+</section>
+
+<section class="research-module" id="research-2" markdown="1">
+
+<div class="research-number">研究方向 / 02</div>
 
 ## 外骨骼智能感知与运动规划
 
@@ -54,21 +73,30 @@ author_profile: true
 - 基于人体运动隐式建模进行实时步态相位估计，论文报告的稳态相位均方根误差为2.729%。
 - 系统梳理下肢外骨骼辅助轨迹规划方法，分析从实验室优化步态到环境自适应运动的技术路径。
 
+
+<div class="research-publications" markdown="1">
+
 ### 相关论文
 
 1. **基于人体运动隐式建模的实时步态相位估计**  
-   **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
+
    *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
-   **期刊论文 · TNSRE · 2025 · 共同第一作者、署名首位 · 已发表**
+   <span class="research-citation-meta">期刊论文 · TNSRE · 2025 · 共同第一作者、署名首位 · 已发表</span>  
    [DOI](https://doi.org/10.1109/TNSRE.2025.3621076)
 
 2. **下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动**  
-   Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
+
    *IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
-   **期刊论文 · RBME · 2026 · 第四作者 · 已发表**
+   <span class="research-citation-meta">期刊论文 · RBME · 2026 · 第四作者 · 已发表</span>  
    [DOI](https://doi.org/10.1109/RBME.2025.3646165)
 
----
+</div>
+
+</section>
+
+<section class="research-module" id="research-3" markdown="1">
+
+<div class="research-number">研究方向 / 03</div>
 
 ## 安全柔顺人机交互控制
 
@@ -79,20 +107,25 @@ author_profile: true
 - 利用空间分类模型定义康复机器人的安全导纳边界。
 - 研究踝关节跖屈／背屈辅助切换中的柔顺过渡，结合绳驱动系统进行验证。
 
+
+<div class="research-publications" markdown="1">
+
 ### 相关论文
 
 1. **双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制**  
-   Wenjing Liu, **Yuanlong Ji**, Mengnan Zhou, Yu Song, Quan Zheng, Yubo Fan, Xingbang Yang  
+
    *IFAC-PapersOnLine, 59(35): 362–367*  
-   **会议论文 · IFAC HMS · 2025 · 第二作者；会议论文 · 已发表**
+   <span class="research-citation-meta">会议论文 · IFAC HMS · 2025 · 第二作者；会议论文 · 已发表</span>  
    [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
 2. **基于空间分类模型的康复机器人安全导纳边界算法**  
-   Yong Tao, **Yuanlong Ji**, Dongming Han, He Gao, Tianmiao Wang  
+
    *Applied Sciences, 13(9): 5816*  
-   **期刊论文 · Applied Sciences · 2023 · 第二作者，导师第一作者，学生一作 · 已发表**
+   <span class="research-citation-meta">期刊论文 · Applied Sciences · 2023 · 第二作者，导师第一作者，学生一作 · 已发表</span>  
    [DOI](https://doi.org/10.3390/app13095816)
 
----
+</div>
 
-[查看按年份排列的全部论文](/cn/publications/)
+</section>
+
+[查看全部论文及完整作者信息](/cn/publications/)
