@@ -12,13 +12,9 @@ As a core research member, I contribute to an NSFC General Program project (2025
 
 </div>
 
-<nav class="research-index" aria-label="Research lines"><a href="#research-1"><span>01</span> Switchable actuation</a><a href="#research-2"><span>02</span> Sensing to deployment</a><a href="#research-3"><span>03</span> Safe and compliant interaction</a><a href="#research-4"><span>04</span> Trajectory-planning methods</a></nav>
-
 <section class="research-module" id="research-1" markdown="1">
 
-<div class="research-number">RESEARCH LINE / 01</div>
-
-## One Actuation System, Different Assistance Tasks
+## 1. One Actuation System, Different Assistance Tasks
 
 Rehabilitation training and everyday assistance place different demands on exoskeleton output. My work starts with a mechanism question: can switching the brake state and transmission path allow one drive to serve different tasks? The WRRC coupled movable pulley mechanism established this direction through conceptual design and preliminary experiments. Building on that work, RA-L develops the switching principle into the design and control of a torque/tension dual-mode actuator, providing an actuation foundation for multiple assistance tasks.
 
@@ -41,9 +37,7 @@ Rehabilitation training and everyday assistance place different demands on exosk
 
 <section class="research-module" id="research-2" markdown="1">
 
-<div class="research-number">RESEARCH LINE / 02</div>
-
-## Following Human Gait and Moving Beyond the Test Bench
+## 2. Following Human Gait and Moving Beyond the Test Bench
 
 Actuation determines how an exoskeleton delivers force; human-state estimation informs when it should act. In TNSRE, I investigated real-time gait-phase estimation to provide continuous motion-state input for assistance control. The next step was to bring that method onto a wearable system. The reconfigurable hip exoskeleton deploys this earlier sensing work on a shared wearable interface with bench and backpack actuation configurations, connecting laboratory evaluation with indoor and outdoor use.
 
@@ -67,9 +61,7 @@ Actuation determines how an exoskeleton delivers force; human-state estimation i
 
 <section class="research-module" id="research-3" markdown="1">
 
-<div class="research-number">RESEARCH LINE / 03</div>
-
-## Making Assistance Safer and More Compliant
+## 3. Making Assistance Safer and More Compliant
 
 Once sensing and actuation are integrated into a wearable system, physical interaction becomes central: how should the robot respond to a person, and how should it transition between assistance directions? I address these questions through complementary control and mechanism studies. Safe admittance boundaries constrain the interaction region, compliant transition control handles plantarflexion/dorsiflexion switching, and variable-stiffness mechanisms offer a mechanical route to regulating compliance.
 
@@ -95,9 +87,7 @@ Once sensing and actuation are integrated into a wearable system, physical inter
 
 <section class="research-module" id="research-4" markdown="1">
 
-<div class="research-number">RESEARCH LINE / 04</div>
-
-## Connecting These Components to Environmental Adaptation
+## 4. Connecting These Components to Environmental Adaptation
 
 Actuation, gait-state estimation and physical interaction ultimately feed into a common question: what assistive motion should an exoskeleton provide as the person and environment change? In the RBME review to which I contributed, we examine the connection between assistive trajectory planning and multimodal parameter awareness. This provides a broader context for the individual studies, linking laboratory-optimized gait to environmentally adaptive locomotion and the goal of bringing exoskeletons into everyday life.
 
