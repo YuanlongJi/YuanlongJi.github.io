@@ -138,3 +138,6 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 .education-entry .education-date{display:inline;margin-right:16px;}
 .education-entry strong{margin-right:12px;}
 @media(max-width:600px){.education-entry .education-date{margin-right:10px;}.education-entry strong{margin-right:8px;}}
+
+.research-gallery--1{grid-template-columns:1fr;}.research-gallery--3{grid-template-columns:repeat(3,minmax(0,1fr));}
+@media(max-width:600px){.research-gallery--3{grid-template-columns:1fr;}}
