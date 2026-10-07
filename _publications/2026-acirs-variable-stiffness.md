@@ -15,7 +15,7 @@ Yuanlong Ji, Ruizhe Jiang, Xiangyu Xie, Junheng Lin, Dongrun Jin, Xingbang Yang
 *11th Asia-Pacific Conference on Intelligent Robot Systems*  
 First author · Accepted; oral presentation in August 2026  
 
-<div class="detail-figure"><figure class="paper-figure"><a href="/assets/images/variable-stiffness.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness.png" alt="Variable-stiffness mechanism" loading="lazy"></a><figcaption>Variable-stiffness mechanism</figcaption></figure></div>
+<div class="detail-figure"><figure class="paper-figure"><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="Variable-stiffness mechanism" loading="lazy"></a><figcaption>Variable-stiffness mechanism</figcaption></figure></div>
 
 ## Research overview
 

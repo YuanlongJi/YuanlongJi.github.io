@@ -39,7 +39,7 @@ author_profile: true
 
 </div></div>
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness.png" alt="变刚度执行器机构" loading="lazy"></a><figcaption>变刚度执行器机构</figcaption></figure><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="变刚度执行器机构" loading="lazy"></a><figcaption>变刚度执行器机构</figcaption></figure><div markdown="1">
 
 ### [3] 基于交叉四杆机构的变刚度执行器优化设计与仿真验证
 

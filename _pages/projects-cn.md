@@ -65,7 +65,7 @@ author_profile: true
 
 当感知与驱动进入穿戴系统，研究还需要回答：机器人怎样与人接触，辅助方向改变时又怎样平顺过渡？围绕这一问题，我从控制与机构两个层面开展工作：安全导纳边界约束交互范围，柔顺切换控制处理跖屈／背屈转换，变刚度机构则提供机械柔顺性调节的另一条路径。这些工作共同支撑外骨骼从“能够运动”走向更适合人机协同的辅助。
 
-<div class="research-gallery research-gallery--3"><figure><a href="/assets/images/safe-admittance.png" target="_blank" rel="noopener"><img src="/assets/images/safe-admittance.png" alt="安全导纳边界与交互实验" loading="lazy"></a><figcaption>安全导纳边界与交互实验</figcaption></figure><figure><a href="/assets/images/ankle-system.png" target="_blank" rel="noopener"><img src="/assets/images/ankle-system.png" alt="踝关节辅助方向的柔顺切换" loading="lazy"></a><figcaption>踝关节辅助方向的柔顺切换</figcaption></figure><figure><a href="/assets/images/variable-stiffness.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness.png" alt="交叉四杆变刚度机构" loading="lazy"></a><figcaption>交叉四杆变刚度机构</figcaption></figure></div>
+<div class="research-gallery research-gallery--3"><figure><a href="/assets/images/safe-admittance.png" target="_blank" rel="noopener"><img src="/assets/images/safe-admittance.png" alt="安全导纳边界与交互实验" loading="lazy"></a><figcaption>安全导纳边界与交互实验</figcaption></figure><figure><a href="/assets/images/ankle-system.png" target="_blank" rel="noopener"><img src="/assets/images/ankle-system.png" alt="踝关节辅助方向的柔顺切换" loading="lazy"></a><figcaption>踝关节辅助方向的柔顺切换</figcaption></figure><figure><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="交叉四杆变刚度机构" loading="lazy"></a><figcaption>交叉四杆变刚度机构</figcaption></figure></div>
 
 - **限定安全交互范围：**利用空间分类模型定义康复机器人的安全导纳边界。
 - **处理辅助切换过程：**在双向绳驱动踝关节外骨骼中研究跖屈／背屈辅助的柔顺过渡。

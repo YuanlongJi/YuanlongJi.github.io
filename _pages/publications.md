@@ -39,7 +39,7 @@ Switchable torque and tension output connects different assistance requirements 
 
 </div></div>
 
-<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness.png" alt="Variable-stiffness mechanism" loading="lazy"></a><figcaption>Variable-stiffness mechanism</figcaption></figure><div markdown="1">
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="Variable-stiffness mechanism" loading="lazy"></a><figcaption>Variable-stiffness mechanism</figcaption></figure><div markdown="1">
 
 ### [3] Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism
 
