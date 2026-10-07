@@ -18,7 +18,7 @@ author_profile: true
 
 康复训练与日常助行对外骨骼的输出方式提出了不同要求。我的研究首先从机构入手：能否通过制动与传动路径的切换，让一套驱动承担不同任务？WRRC 的耦合动滑轮康复机构是这一思路的起点，完成了概念设计与初步实验。沿着这条路线，RA-L 进一步将模式切换落实到执行器设计与控制，实现力矩／张力两类输出，为多用途外骨骼提供驱动基础。
 
-<div class="research-gallery research-gallery--2"><figure><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="前期：WRRC 耦合动滑轮康复机构" loading="lazy"></a><figcaption>前期：WRRC 耦合动滑轮康复机构</figcaption></figure><figure><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="延续：RA-L 力矩／张力双模式执行器" loading="lazy"></a><figcaption>延续：RA-L 力矩／张力双模式执行器</figcaption></figure></div>
+<div class="research-gallery research-gallery--2"><figure><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="前期：WRRC 耦合动滑轮康复机构" loading="lazy"></a><figcaption>前期：WRRC 耦合动滑轮康复机构</figcaption></figure><figure><video class="research-video" controls playsinline preload="none" poster="/assets/images/dual-mode-actuator.png" aria-label="延续：RA-L 力矩／张力双模式执行器"><source src="/assets/videos/ral-supplementary.mp4" type="video/mp4"><a href="/assets/videos/ral-supplementary.mp4">Video</a></video><figcaption>延续：RA-L 力矩／张力双模式执行器</figcaption></figure></div>
 
 - **从机构原理出发：**WRRC 工作探索耦合动滑轮康复机构，获得最佳论文奖。
 - **向执行器与控制推进：**RA-L 工作发展力矩／张力双模式绳驱动执行器，将可切换机制用于不同辅助需求。
@@ -41,7 +41,7 @@ author_profile: true
 
 驱动机构决定如何出力，人体状态感知则决定何时出力。为让外骨骼跟上连续变化的步伐，我在 TNSRE 工作中研究实时步态相位估计，为辅助控制提供连续的运动状态输入。接下来的问题是如何把这一方法带到实际穿戴系统中：在可重构髋关节外骨骼工作中，将前期识别方法部署到共用穿戴接口的台架／背包双构型平台，衔接实验室验证与室内外应用。
 
-<div class="research-gallery research-gallery--2"><figure><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="前期：TNSRE 实时步态相位识别" loading="lazy"></a><figcaption>前期：TNSRE 实时步态相位识别</figcaption></figure><figure><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="接续：可重构髋关节外骨骼系统部署" loading="lazy"></a><figcaption>接续：可重构髋关节外骨骼系统部署</figcaption></figure></div>
+<div class="research-gallery research-gallery--2"><figure><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="前期：TNSRE 实时步态相位识别" loading="lazy"></a><figcaption>前期：TNSRE 实时步态相位识别</figcaption></figure><figure><video class="research-video" controls playsinline preload="none" poster="/assets/images/reconfigurable-preprint.png" aria-label="接续：可重构髋关节外骨骼系统部署"><source src="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4" type="video/mp4"><a href="/assets/videos/reconfigurable-exoskeleton-supplementary.mp4">Video</a></video><figcaption>接续：可重构髋关节外骨骼系统部署</figcaption></figure></div>
 
 - **先建立感知方法：**TNSRE 基于人体运动隐式建模估计步态相位，稳态相位均方根误差为2.729%，并开放配套数据集。
 - **再连接穿戴平台：**可重构外骨骼承接前期步态识别工作，通过台架与背包配置切换，支持不同场景下的系统研究。
