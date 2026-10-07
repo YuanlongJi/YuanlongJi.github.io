@@ -18,14 +18,14 @@ As a core research member, I contribute to an NSFC General Program project (2025
 
 <div class="research-number">RESEARCH LINE / 01</div>
 
-## Switchable Braking: From Rehabilitation Mechanisms to Dual-Mode Actuation
+## One Actuation System, Different Assistance Tasks
 
-This research line develops switchable braking and cable-transmission mechanisms, progressing from the coupled movable pulley rehabilitation mechanism in WRRC to the torque/tension dual-mode actuator in RA-L. The work connects mechanism design, mode switching and actuation control for multiple assistance tasks.
+Rehabilitation training and everyday assistance place different demands on exoskeleton output. My work starts with a mechanism question: can switching the brake state and transmission path allow one drive to serve different tasks? The WRRC coupled movable pulley mechanism established this direction through conceptual design and preliminary experiments. Building on that work, RA-L develops the switching principle into the design and control of a torque/tension dual-mode actuator, providing an actuation foundation for multiple assistance tasks.
 
 <div class="research-gallery research-gallery--2"><figure><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="Foundation: WRRC rehabilitation mechanism" loading="lazy"></a><figcaption>Foundation: WRRC rehabilitation mechanism</figcaption></figure><figure><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Follow-on: RA-L torque/tension dual-mode actuator" loading="lazy"></a><figcaption>Follow-on: RA-L torque/tension dual-mode actuator</figcaption></figure></div>
 
-- **Mechanism foundation | WRRC 2024:** Conceptual design and preliminary experiments with a coupled movable pulley mechanism; Best Paper Award.
-- **Follow-on work | RA-L 2026:** Develop the switching mechanism into a cable-driven actuator with torque and tension output modes for different assistance requirements.
+- **Establish the mechanism:** The WRRC rehabilitation mechanism explores coupled movable pulley transmission and received the Best Paper Award.
+- **Develop actuation and control:** The RA-L work implements switchable torque and tension output in a cable-driven actuator for different assistance requirements.
 
 <div class="research-publications" markdown="1">
 
@@ -43,15 +43,15 @@ This research line develops switchable braking and cable-transmission mechanisms
 
 <div class="research-number">RESEARCH LINE / 02</div>
 
-## From Gait-Phase Estimation to Reconfigurable Exoskeleton Deployment
+## Following Human Gait and Moving Beyond the Test Bench
 
-The real-time gait-phase estimator developed in TNSRE provides the sensing foundation for subsequent deployment on a reconfigurable hip exoskeleton. This line connects human-motion estimation with a bench/backpack platform, moving from laboratory algorithm evaluation toward wearable use across indoor and outdoor settings.
+Actuation determines how an exoskeleton delivers force; human-state estimation informs when it should act. In TNSRE, I investigated real-time gait-phase estimation to provide continuous motion-state input for assistance control. The next step was to bring that method onto a wearable system. The reconfigurable hip exoskeleton deploys this earlier sensing work on a shared wearable interface with bench and backpack actuation configurations, connecting laboratory evaluation with indoor and outdoor use.
 
 <div class="research-gallery research-gallery--2"><figure><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="Foundation: TNSRE real-time gait-phase estimation" loading="lazy"></a><figcaption>Foundation: TNSRE real-time gait-phase estimation</figcaption></figure><figure><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="Follow-on: reconfigurable hip exoskeleton deployment" loading="lazy"></a><figcaption>Follow-on: reconfigurable hip exoskeleton deployment</figcaption></figure></div>
 
-- **Sensing foundation | TNSRE 2025:** Estimate continuous gait phase through implicit modeling of human locomotion; reported steady-state phase RMSE is 2.729%, with an open dataset.
-- **Follow-on system | Reconfigurable exoskeleton preprint:** Deploy the earlier gait-estimation work on a hip exoskeleton with interchangeable bench and backpack configurations, linking sensing algorithms to a wearable system.
-- **Platform evaluation:** Configuration switching averaged 30.1 ± 16.3 s across 30 trials with three healthy participants; this measures configuration-switching efficiency.
+- **Establish the sensing method:** TNSRE estimates gait phase through implicit modeling of human locomotion, reporting a steady-state phase RMSE of 2.729% and providing an open dataset.
+- **Connect it to a wearable platform:** The reconfigurable exoskeleton carries the earlier gait-estimation work into a system that switches between bench and backpack configurations for different research settings.
+- **Evaluate configuration switching:** Switching averaged 30.1 ± 16.3 s over 30 trials with three healthy participants.
 
 <div class="research-publications" markdown="1">
 
@@ -69,15 +69,15 @@ The real-time gait-phase estimator developed in TNSRE provides the sensing found
 
 <div class="research-number">RESEARCH LINE / 03</div>
 
-## From Safety Boundaries to Compliant Control and Variable Stiffness
+## Making Assistance Safer and More Compliant
 
-This line addresses safe and comfortable physical interaction through admittance boundaries, transitions between assistance directions and adjustable mechanical stiffness. Control and mechanism design offer complementary support for exoskeleton interaction.
+Once sensing and actuation are integrated into a wearable system, physical interaction becomes central: how should the robot respond to a person, and how should it transition between assistance directions? I address these questions through complementary control and mechanism studies. Safe admittance boundaries constrain the interaction region, compliant transition control handles plantarflexion/dorsiflexion switching, and variable-stiffness mechanisms offer a mechanical route to regulating compliance.
 
 <div class="research-gallery research-gallery--3"><figure><a href="/assets/images/safe-admittance.png" target="_blank" rel="noopener"><img src="/assets/images/safe-admittance.png" alt="Safe admittance boundaries and interaction experiments" loading="lazy"></a><figcaption>Safe admittance boundaries and interaction experiments</figcaption></figure><figure><a href="/assets/images/ankle-system.png" target="_blank" rel="noopener"><img src="/assets/images/ankle-system.png" alt="Compliant transitions in ankle assistance" loading="lazy"></a><figcaption>Compliant transitions in ankle assistance</figcaption></figure><figure><a href="/assets/images/variable-stiffness.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness.png" alt="Crossed four-bar variable-stiffness mechanism" loading="lazy"></a><figcaption>Crossed four-bar variable-stiffness mechanism</figcaption></figure></div>
 
-- **Safety boundaries:** Define safe admittance regions for rehabilitation robots using a space-classification model.
-- **Compliant transitions:** Investigate continuous switching between plantarflexion and dorsiflexion assistance in a bidirectional cable-driven ankle exoskeleton.
-- **Mechanism extension:** Optimize and simulate a crossed four-bar variable-stiffness actuator to explore compliance regulation through mechanical design.
+- **Define the interaction region:** Use a space-classification model to establish safe admittance boundaries for rehabilitation robots.
+- **Manage assistance transitions:** Investigate compliant switching between plantarflexion and dorsiflexion in a bidirectional cable-driven ankle exoskeleton.
+- **Explore mechanical compliance:** Optimize and simulate a crossed four-bar variable-stiffness actuator to investigate structural stiffness regulation.
 
 <div class="research-publications" markdown="1">
 
@@ -97,13 +97,13 @@ This line addresses safe and comfortable physical interaction through admittance
 
 <div class="research-number">RESEARCH LINE / 04</div>
 
-## Assistive Trajectory Planning and Environmental Adaptation
+## Connecting These Components to Environmental Adaptation
 
-This review connects assistive trajectory planning with multimodal parameter awareness, providing a broader methodological perspective for sensing, control and system design toward everyday exoskeleton use.
+Actuation, gait-state estimation and physical interaction ultimately feed into a common question: what assistive motion should an exoskeleton provide as the person and environment change? In the RBME review to which I contributed, we examine the connection between assistive trajectory planning and multimodal parameter awareness. This provides a broader context for the individual studies, linking laboratory-optimized gait to environmentally adaptive locomotion and the goal of bringing exoskeletons into everyday life.
 
 <div class="research-gallery research-gallery--1"><figure><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="From laboratory-optimized gait to adaptive locomotion" loading="lazy"></a><figcaption>From laboratory-optimized gait to adaptive locomotion</figcaption></figure></div>
 
-- **Methodological synthesis | RBME:** Review lower-limb exoskeleton trajectory-planning strategies and how human-state and environmental information inform assistive motion generation.
+- **Connect methods to system-level decisions:** Review lower-limb exoskeleton trajectory-planning strategies and how human-state and environmental information inform assistive motion generation.
 
 <div class="research-publications" markdown="1">
 
