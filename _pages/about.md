@@ -13,7 +13,8 @@ show_title: false
 ## Latest news
 
 - **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
-- **August 2026:** Oral presentation at ACIRS.
+- **August 2026:** Oral presentation at ACIRS 2026 in Hong Kong.
+- **July 2026:** Won first prize as team leader at the 11th National Undergraduate Biomedical Engineering Innovation Design Competition in Hainan.
 - **2025:** Selected for the CAST doctoral-student science and technology talent development program.
 
 </div>
