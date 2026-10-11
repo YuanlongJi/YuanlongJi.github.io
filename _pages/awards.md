@@ -7,6 +7,7 @@ author_profile: true
 
 ## Talent programs and academic honors
 
+- **October 2026:** 2026 National Scholarship for Doctoral Students.
 - **2025:** CAST doctoral-student science and technology talent development program (national talent program).
 - **2024:** WRRC Best Paper Award, first author.
 - **2026:** Second prize, Young Paper Competition at the Rehabilitation Engineering Academic Conference.
