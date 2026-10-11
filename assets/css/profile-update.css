@@ -17,7 +17,7 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 .page__inner-wrap{float:none;width:100%;}
 .page__title{font-size:38px;line-height:1.2;font-weight:730;letter-spacing:-1.1px;color:var(--ink);margin:0 0 24px;}
 .page__content{font-size:16px;line-height:1.85;overflow-wrap:break-word;}
-.page__content>p:first-child{font-size:17px;line-height:1.9;}
+.page__content>p:first-child{font-size:inherit;line-height:inherit;}
 .page__content p{margin-bottom:18px;}
 .page__content h2{font-size:23px;line-height:1.4;font-weight:680;letter-spacing:-.35px;color:var(--ink);border-bottom:1px solid var(--line);padding-bottom:13px;margin:42px 0 22px;}
 .page__content h3{font-size:17px;line-height:1.5;font-weight:650;color:var(--ink);margin:30px 0 12px;}
