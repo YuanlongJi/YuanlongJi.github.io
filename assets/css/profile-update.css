@@ -134,8 +134,8 @@ a:focus-visible,button:focus-visible{outline:3px solid #6ca5ce;outline-offset:5p
 @media(min-width:925px){.author__content{padding-top:15px;}}
 
 /* One compact line per education entry; wrap naturally on small screens. */
-.education-entry{display:block;padding:9px 0;font-size:13px;line-height:1.8;}
-.education-entry .education-date{display:inline;margin-right:16px;}
+.education-entry{display:block;padding:9px 0;font-size:inherit;line-height:1.85;}
+.education-entry .education-date{display:inline;margin-right:16px;font-size:inherit;}
 .education-entry strong{margin-right:12px;}
 @media(max-width:600px){.education-entry .education-date{margin-right:10px;}.education-entry strong{margin-right:8px;}}
 
