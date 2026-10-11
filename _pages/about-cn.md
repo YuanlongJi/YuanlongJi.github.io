@@ -8,6 +8,10 @@ author_profile: true
 show_title: false
 ---
 
+<section class="home-showcase" aria-label="研究视频"><div class="snapshot-viewer"><button class="snapshot-arrow snapshot-arrow--previous" type="button" data-step="-1" aria-label="上一项">←</button><div class="snapshot-track" tabindex="0" aria-label="研究视频"><figure class="snapshot-slide" aria-label="1 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-treadmill-walking-poster.jpg" aria-label="台架步行实验"><source src="/assets/videos/core-treadmill-walking.mp4" type="video/mp4"></video></div><figcaption>台架步行实验</figcaption></figure><figure class="snapshot-slide" aria-label="2 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-mechanism-switching-poster.jpg" aria-label="双模式机构切换"><source src="/assets/videos/core-mechanism-switching.mp4" type="video/mp4"></video></div><figcaption>双模式机构切换</figcaption></figure><figure class="snapshot-slide" aria-label="3 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-outdoor-poster.jpg" aria-label="户外穿戴实验"><source src="/assets/videos/core-outdoor-walking.mp4" type="video/mp4"></video></div><figcaption>户外穿戴实验</figcaption></figure></div><button class="snapshot-arrow snapshot-arrow--next" type="button" data-step="1" aria-label="下一项">→</button></div><div class="snapshot-controls"><div class="snapshot-dots"><button type="button" data-slide="0" aria-label="台架步行实验" aria-current="true"><span></span></button><button type="button" data-slide="1" aria-label="双模式机构切换" aria-current="false"><span></span></button><button type="button" data-slide="2" aria-label="户外穿戴实验" aria-current="false"><span></span></button></div><span class="snapshot-counter" aria-live="polite">1 / 3</span></div></section>
+
+<script defer src="/assets/js/home-showcase.js"></script>
+
 <div class="home-news" markdown="1">
 
 ## 最新消息
@@ -24,10 +28,6 @@ show_title: false
 
 我是北京航空航天大学生物与医学工程学院博士研究生季源隆，硕博连读，预计2027年7月毕业。我的研究围绕**让外骨骼从实验室走向生活**，结合人体运动感知、机电系统设计与人机协同控制，使可穿戴机器人适应真实使用场景。
 
-
-<section class="home-showcase" aria-label="研究剪影"><h2>研究剪影</h2><div class="snapshot-track" tabindex="0" aria-label="研究剪影"><figure class="snapshot-slide" aria-label="1 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-work-poster.jpg" aria-label="台架步行、机构切换与户外行走"><source src="/assets/videos/core-work-highlights.mp4" type="video/mp4"></video></div><figcaption>台架步行、机构切换与户外行走</figcaption></figure><figure class="snapshot-slide" aria-label="2 / 3"><div class="snapshot-media"><a href="/assets/images/core-drive-detail.jpg" target="_blank" rel="noopener"><img src="/assets/images/core-drive-detail.jpg" alt="背包驱动与绳索传动" loading="lazy"></a></div><figcaption>背包驱动与绳索传动</figcaption></figure><figure class="snapshot-slide" aria-label="3 / 3"><div class="snapshot-media"><a href="/assets/images/core-outdoor.jpg" target="_blank" rel="noopener"><img src="/assets/images/core-outdoor.jpg" alt="户外穿戴实验" loading="lazy"></a></div><figcaption>户外穿戴实验</figcaption></figure></div><div class="snapshot-controls"><button type="button" data-step="-1" aria-label="上一项">←</button><div class="snapshot-dots"><button type="button" data-slide="0" aria-label="台架步行、机构切换与户外行走" aria-current="true"><span></span></button><button type="button" data-slide="1" aria-label="背包驱动与绳索传动" aria-current="false"><span></span></button><button type="button" data-slide="2" aria-label="户外穿戴实验" aria-current="false"><span></span></button></div><span class="snapshot-counter" aria-live="polite">1 / 3</span><button type="button" data-step="1" aria-label="下一项">→</button></div></section>
-
-<script defer src="/assets/js/home-showcase.js"></script>
 
 ## 教育经历
 
@@ -65,7 +65,6 @@ show_title: false
 在绳驱动执行器中切换力矩与张力输出，适应不同外骨骼辅助需求。
 
 
-
 <a href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener">视频链接</a>
 
 </div></div>
@@ -96,7 +95,6 @@ show_title: false
 利用耦合动滑轮机构支持多用途骨科康复，获得世界康复机器人大会最佳论文奖。
 
 [论文链接](https://doi.org/10.1109/WRRC62201.2024.10696897)
-
 
 
 </div></div>

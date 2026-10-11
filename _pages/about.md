@@ -8,6 +8,10 @@ author_profile: true
 show_title: false
 ---
 
+<section class="home-showcase" aria-label="Research videos"><div class="snapshot-viewer"><button class="snapshot-arrow snapshot-arrow--previous" type="button" data-step="-1" aria-label="Previous item">←</button><div class="snapshot-track" tabindex="0" aria-label="Research videos"><figure class="snapshot-slide" aria-label="1 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-treadmill-walking-poster.jpg" aria-label="Treadmill walking trials"><source src="/assets/videos/core-treadmill-walking.mp4" type="video/mp4"></video></div><figcaption>Treadmill walking trials</figcaption></figure><figure class="snapshot-slide" aria-label="2 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-mechanism-switching-poster.jpg" aria-label="Dual-mode mechanism switching"><source src="/assets/videos/core-mechanism-switching.mp4" type="video/mp4"></video></div><figcaption>Dual-mode mechanism switching</figcaption></figure><figure class="snapshot-slide" aria-label="3 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-outdoor-poster.jpg" aria-label="Outdoor walking trials"><source src="/assets/videos/core-outdoor-walking.mp4" type="video/mp4"></video></div><figcaption>Outdoor walking trials</figcaption></figure></div><button class="snapshot-arrow snapshot-arrow--next" type="button" data-step="1" aria-label="Next item">→</button></div><div class="snapshot-controls"><div class="snapshot-dots"><button type="button" data-slide="0" aria-label="Treadmill walking trials" aria-current="true"><span></span></button><button type="button" data-slide="1" aria-label="Dual-mode mechanism switching" aria-current="false"><span></span></button><button type="button" data-slide="2" aria-label="Outdoor walking trials" aria-current="false"><span></span></button></div><span class="snapshot-counter" aria-live="polite">1 / 3</span></div></section>
+
+<script defer src="/assets/js/home-showcase.js"></script>
+
 <div class="home-news" markdown="1">
 
 ## Latest news
@@ -24,10 +28,6 @@ show_title: false
 
 I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
 
-
-<section class="home-showcase" aria-label="Research snapshots"><h2>Research snapshots</h2><div class="snapshot-track" tabindex="0" aria-label="Research snapshots"><figure class="snapshot-slide" aria-label="1 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-work-poster.jpg" aria-label="Bench walking, mechanism switching and outdoor trials"><source src="/assets/videos/core-work-highlights.mp4" type="video/mp4"></video></div><figcaption>Bench walking, mechanism switching and outdoor trials</figcaption></figure><figure class="snapshot-slide" aria-label="2 / 3"><div class="snapshot-media"><a href="/assets/images/core-drive-detail.jpg" target="_blank" rel="noopener"><img src="/assets/images/core-drive-detail.jpg" alt="Backpack actuation and cable transmission" loading="lazy"></a></div><figcaption>Backpack actuation and cable transmission</figcaption></figure><figure class="snapshot-slide" aria-label="3 / 3"><div class="snapshot-media"><a href="/assets/images/core-outdoor.jpg" target="_blank" rel="noopener"><img src="/assets/images/core-outdoor.jpg" alt="Outdoor walking trials" loading="lazy"></a></div><figcaption>Outdoor walking trials</figcaption></figure></div><div class="snapshot-controls"><button type="button" data-step="-1" aria-label="Previous item">←</button><div class="snapshot-dots"><button type="button" data-slide="0" aria-label="Bench walking, mechanism switching and outdoor trials" aria-current="true"><span></span></button><button type="button" data-slide="1" aria-label="Backpack actuation and cable transmission" aria-current="false"><span></span></button><button type="button" data-slide="2" aria-label="Outdoor walking trials" aria-current="false"><span></span></button></div><span class="snapshot-counter" aria-live="polite">1 / 3</span><button type="button" data-step="1" aria-label="Next item">→</button></div></section>
-
-<script defer src="/assets/js/home-showcase.js"></script>
 
 ## Education
 
@@ -65,7 +65,6 @@ Selected in 2025 for the China Association for Science and Technology (CAST) doc
 Switchable torque and tension output connects different assistance requirements within one cable-driven actuator.
 
 
-
 <a href="/assets/videos/ral-supplementary.mp4" target="_blank" rel="noopener">Video</a>
 
 </div></div>
@@ -96,7 +95,6 @@ Continuous gait-phase estimation for wearable assistance; reported steady-state 
 A coupled movable pulley mechanism supports versatile orthopedic rehabilitation; WRRC Best Paper Award.
 
 [Paper](https://doi.org/10.1109/WRRC62201.2024.10696897)
-
 
 
 </div></div>
