@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- **October 2026:** Received the 2026 National Scholarship for Doctoral Students.
+- **October 2026:** Received the 2026 National Scholarship for Doctoral Students at Beihang University.
 - **16 September 2026:** Dual-mode actuator paper accepted by IEEE RA-L.
 - **September 2026:** Demonstrated exoskeleton research at Care & Rehabilitation Expo China.
 - **August 2026:** Presented variable-stiffness actuator research at ACIRS 2026 in Hong Kong.
