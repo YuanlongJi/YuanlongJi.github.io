@@ -1,31 +1,11 @@
 ---
 layout: single
-title: "Yuanlong Ji"
-permalink: /
+title: "About"
+permalink: /about/
 lang: en
-redirect_from: ["/about/", "/about.html"]
+redirect_from: ["/about.html"]
 author_profile: true
-show_title: false
 ---
-
-<section class="home-showcase" aria-label="Research videos"><div class="snapshot-viewer"><button class="snapshot-arrow snapshot-arrow--previous" type="button" data-step="-1" aria-label="Previous item">←</button><div class="snapshot-track" tabindex="0" aria-label="Research videos"><figure class="snapshot-slide" aria-label="1 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-treadmill-walking-poster.jpg" aria-label="Treadmill walking trials"><source src="/assets/videos/core-treadmill-walking.mp4" type="video/mp4"></video></div><figcaption>ReExo: A reconfigurable cable-driven hip exoskeleton in treadmill trials</figcaption></figure><figure class="snapshot-slide" aria-label="2 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-mechanism-switching-poster.jpg" aria-label="Quick actuation reconfiguration"><source src="/assets/videos/core-mechanism-switching.mp4" type="video/mp4"></video></div><figcaption>ReExo: Quick swapping between bench and backpack actuation</figcaption></figure><figure class="snapshot-slide" aria-label="3 / 3"><div class="snapshot-media"><video muted loop playsinline controls preload="none" poster="/assets/images/core-outdoor-poster.jpg" aria-label="Outdoor walking trials"><source src="/assets/videos/core-outdoor-walking.mp4" type="video/mp4"></video></div><figcaption>ReExo: Taking wearable walking assistance from the lab outdoors</figcaption></figure></div><button class="snapshot-arrow snapshot-arrow--next" type="button" data-step="1" aria-label="Next item">→</button></div><div class="snapshot-controls"><div class="snapshot-dots"><button type="button" data-slide="0" aria-label="Treadmill walking trials" aria-current="true"><span></span></button><button type="button" data-slide="1" aria-label="Quick actuation reconfiguration" aria-current="false"><span></span></button><button type="button" data-slide="2" aria-label="Outdoor walking trials" aria-current="false"><span></span></button></div><span class="snapshot-counter" aria-live="polite">1 / 3</span></div></section>
-
-<script defer src="/assets/js/home-showcase.js?v=20261011-videos"></script>
-
-<div class="home-news" markdown="1">
-
-## Latest news
-
-- **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
-- **August 2026:** Oral presentation at ACIRS 2026 in Hong Kong.
-- **July 2026:** Won first prize as team leader at the 11th National Undergraduate Biomedical Engineering Innovation Design Competition in Hainan.
-- **2025:** Selected for the CAST doctoral-student science and technology talent development program.
-
-</div>
-
-## About me
-
-
 I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
 
 

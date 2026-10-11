@@ -1,6 +1,8 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
   - title: "Publications"
     url: /publications/
   - title: "Research"
@@ -10,8 +12,10 @@ main:
   - title: "Chinese"
     url: /cn/
 cn:
-  - title: "个人简介"
+  - title: "首页"
     url: /cn/
+  - title: "个人简介"
+    url: /cn/about/
   - title: "论文成果"
     url: /cn/publications/
   - title: "科研项目"
