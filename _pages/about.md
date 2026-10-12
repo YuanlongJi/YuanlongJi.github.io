@@ -94,3 +94,10 @@ A review connecting assistive trajectory planning, multimodal awareness and envi
 </div></div>
 
 [Full publication list →](/publications/)
+
+## Student mentoring
+
+Research mentoring for undergraduate theses, School of Biological Science and Medical Engineering, Beihang University:
+
+- **Jan–Jun 2025 | Dongrun Jin:** Simulation study of feedback linearization control for an antagonistic variable-stiffness joint using adaptive optimization.
+- **Jan–Jun 2024 | Yueyang Wang:** Bio-inspired optimization of a cable-driven knee exoskeleton with an adaptive instantaneous center of rotation.
