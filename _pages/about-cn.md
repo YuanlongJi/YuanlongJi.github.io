@@ -59,7 +59,7 @@ author_profile: true
 为可穿戴辅助控制提供连续人体状态信息；稳态相位估计均方根误差为2.729%。
 
 
-[论文链接](https://doi.org/10.1109/TNSRE.2025.3621076) · [数据集](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
+[论文链接](https://doi.org/10.1109/TNSRE.2025.3621076) · [数据集](https://huggingface.co/datasets/YuanlongJi/GPE-MM) · [新闻报道](https://mp.weixin.qq.com/s/UTPk6sCkNiAYqhE9mv0wvg)
 
 </div></div>
 

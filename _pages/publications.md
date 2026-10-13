@@ -77,7 +77,7 @@ A review connecting assistive trajectory planning, multimodal awareness and envi
 
 Continuous gait-phase estimation for wearable assistance; reported steady-state phase RMSE: 2.729%.
 
-[Paper](https://doi.org/10.1109/TNSRE.2025.3621076) · [Dataset](https://huggingface.co/datasets/YuanlongJi/GPE-MM)
+[Paper](https://doi.org/10.1109/TNSRE.2025.3621076) · [Dataset](https://huggingface.co/datasets/YuanlongJi/GPE-MM) · [Media coverage](https://mp.weixin.qq.com/s/UTPk6sCkNiAYqhE9mv0wvg)
 
 </div></div>
 
@@ -138,3 +138,7 @@ A space-classification model defines safe admittance boundaries for physical hum
 An early foundation in mechatronic integration and intelligent manufacturing control.
 
 [Paper](https://doi.org/10.1109/WCMEIM52463.2020.00054)
+
+## Media coverage
+
+- [WeChat coverage by the Rehabilitation Engineering Branch of the Chinese Society of Biomedical Engineering](https://mp.weixin.qq.com/s/UTPk6sCkNiAYqhE9mv0wvg) — Coverage of our TNSRE research on gait-phase estimation.
