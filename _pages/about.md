@@ -6,14 +6,17 @@ lang: en
 redirect_from: ["/about.html"]
 author_profile: true
 ---
-I am a PhD student in Biomedical Engineering at Beihang University in the integrated master’s–PhD track. I expect to graduate in July 2027. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
+I am Yuanlong Ji, a PhD student in Biomedical Engineering at Beihang University. I entered the integrated master’s–PhD program in September 2022 and expect to graduate in July 2027. I received my bachelor’s degree in Mechanical Engineering from Beijing University of Technology through its Excellent Engineer Program. My research aims to **bring exoskeletons from the laboratory into everyday life**, combining human-motion estimation, mechatronic design and physical human–robot interaction.
 
+I have authored **eight published or accepted international journal and conference papers** (four journal articles and four conference papers), with one additional public preprint. Representative work appears in or has been accepted by IEEE TNSRE, IEEE RA-L and IEEE RBME; I am the first-listed co-first author of the TNSRE paper and the first author of the RA-L paper. I am also the first student inventor on **five granted invention patents** and the first student contributor to **four registered software copyrights**.
+
+My honors include selection for the **CAST doctoral-student science and technology talent development program**, the 2026 National Scholarship for Doctoral Students at Beihang University, a WRRC Best Paper Award and a national first prize in biomedical engineering innovation design. I also mentor undergraduate thesis research and student innovation competitions.
 
 ## Education
 
 <div class="education-list">
-<div class="education-entry"><span class="education-date">Sep 2023–Present</span><strong>Beihang University</strong><span>Biomedical Engineering · PhD (integrated MSc–PhD) · Doctoral advisor: Assoc. Prof. Xingbang Yang</span></div>
-<div class="education-entry"><span class="education-date">Sep 2018–Jul 2022</span><strong>Beijing University of Technology</strong><span>Mechanical Engineering · Bachelor’s (Excellent Engineer Program) · Undergraduate advisor: Prof. Zhifeng Liu</span></div>
+<div class="education-entry"><span class="education-date">Sep 2022–Present</span><strong>Beihang University</strong><span>Biomedical Engineering · PhD (integrated MSc–PhD)</span></div>
+<div class="education-entry"><span class="education-date">Sep 2018–Jul 2022</span><strong>Beijing University of Technology</strong><span>Mechanical Engineering · Bachelor’s (Excellent Engineer Program)</span></div>
 </div>
 
 ## Research interests
