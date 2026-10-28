@@ -141,4 +141,6 @@ Yong Tao, **Yuanlong Ji**, Dongming Han, He Gao, Tianmiao Wang
 
 ## 新闻报道
 
+- **2026.10.28：** 受邀在中国生物医学工程学会主办、柔性生物电子及可穿戴医疗分会承办的青年BME科技系列论坛作报告，题为“从实验室走向生活：下肢外骨骼的可重构设计与人机协同感知”。[报道链接](https://mp.weixin.qq.com/s/M6TYGhtGW_o3FDPqdy58Mw)
+
 - [中国生物医学工程学会康复工程分会公众号报道](https://mp.weixin.qq.com/s/UTPk6sCkNiAYqhE9mv0wvg) — TNSRE步态相位估计研究。

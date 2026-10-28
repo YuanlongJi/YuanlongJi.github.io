@@ -141,4 +141,6 @@ An early foundation in mechatronic integration and intelligent manufacturing con
 
 ## Media coverage
 
+- **28 October 2026:** Gave an invited talk, “From the Laboratory to Everyday Life: Reconfigurable Design and Human–Robot Collaborative Sensing for Lower-Limb Exoskeletons,” at the Young BME Science and Technology Forum Series, organized by the Chinese Society of Biomedical Engineering and hosted by its Flexible Bioelectronics and Wearable Medicine Branch. [Media coverage](https://mp.weixin.qq.com/s/M6TYGhtGW_o3FDPqdy58Mw)
+
 - [WeChat coverage by the Rehabilitation Engineering Branch of the Chinese Society of Biomedical Engineering](https://mp.weixin.qq.com/s/UTPk6sCkNiAYqhE9mv0wvg) — Coverage of our TNSRE research on gait-phase estimation.

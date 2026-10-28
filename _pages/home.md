@@ -16,6 +16,7 @@ show_title: false
 
 ## Latest news
 
+- **28 October 2026:** Gave an invited talk, “From the Laboratory to Everyday Life: Reconfigurable Design and Human–Robot Collaborative Sensing for Lower-Limb Exoskeletons,” at the Young BME Science and Technology Forum Series, organized by the Chinese Society of Biomedical Engineering and hosted by its Flexible Bioelectronics and Wearable Medicine Branch. [Media coverage](https://mp.weixin.qq.com/s/M6TYGhtGW_o3FDPqdy58Mw)
 - **October 2026:** Received the 2026 National Scholarship for Doctoral Students at Beihang University.
 - **September 2026:** Dual-mode actuator paper accepted by IEEE Robotics and Automation Letters.
 - **August 2026:** Oral presentation at ACIRS 2026 in Hong Kong.
