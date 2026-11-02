@@ -7,6 +7,7 @@ author_profile: true
 
 ## Talent programs and academic honors
 
+- **30 October 2026:** Received an Honorary Award in the Student Incentive Program at the 4th Autonomous Robot Technology Symposium (ARTS 2026).
 - **October 2026:** 2026 National Scholarship for Doctoral Students at Beihang University.
 - **2025:** CAST doctoral-student science and technology talent development program (national talent program).
 - **2024:** WRRC Best Paper Award, first author.
