@@ -69,7 +69,7 @@ Once sensing and actuation are integrated into a wearable system, physical inter
 
 - **Define the interaction region:** Use a space-classification model to establish safe admittance boundaries for rehabilitation robots.
 - **Manage assistance transitions:** Investigate compliant switching between plantarflexion and dorsiflexion in a bidirectional cable-driven ankle exoskeleton.
-- **Explore mechanical compliance:** Optimize and simulate a crossed four-bar variable-stiffness actuator to investigate structural stiffness regulation.
+- **Explore mechanical compliance:** Optimize and simulate a crossed four-bar variable-stiffness actuator to investigate structural stiffness regulation; a follow-up preprint extends this work to dynamic-model verification and layered position–stiffness control in simulation.
 
 <div class="research-publications" markdown="1">
 
@@ -80,6 +80,8 @@ Once sensing and actuation are integrated into a wearable system, physical inter
 2. W. Liu, **Y. Ji**, et al. A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
 3. **Y. Ji** et al. Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism. *ACIRS, 2026* (accepted).
+
+4. **Y. Ji**, R. Jiang, D. Jin, X. Xie, J. Lin, and X. Yang. Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator. *arXiv:2611.07504, 2026* (preprint). [arXiv](https://arxiv.org/abs/2611.07504)
 
 </div>
 

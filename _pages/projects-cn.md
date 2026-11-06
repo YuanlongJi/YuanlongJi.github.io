@@ -69,7 +69,7 @@ author_profile: true
 
 - **限定安全交互范围：**利用空间分类模型定义康复机器人的安全导纳边界。
 - **处理辅助切换过程：**在双向绳驱动踝关节外骨骼中研究跖屈／背屈辅助的柔顺过渡。
-- **拓展机械柔顺性：**开展交叉四杆变刚度执行器优化设计及仿真验证，探索结构层面的刚度调节。
+- **拓展机械柔顺性：**开展交叉四杆变刚度执行器优化设计及仿真验证，探索结构层面的刚度调节；后续预印本进一步开展动力学模型验证与位置—刚度分层控制仿真。
 
 <div class="research-publications" markdown="1">
 
@@ -80,6 +80,8 @@ author_profile: true
 2. W. Liu, **Y. Ji**, et al. A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton. *IFAC-PapersOnLine, 2025, 59(35): 362–367*. [DOI](https://doi.org/10.1016/j.ifacol.2025.12.503)
 
 3. **Y. Ji** et al. Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism. *ACIRS, 2026* (accepted).
+
+4. **Y. Ji**, R. Jiang, D. Jin, X. Xie, J. Lin, and X. Yang. Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator. *arXiv:2611.07504, 2026* (preprint). [arXiv](https://arxiv.org/abs/2611.07504)
 
 </div>
 

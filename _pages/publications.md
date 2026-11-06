@@ -6,13 +6,27 @@ lang: en
 author_profile: true
 ---
 
-**Eight international journal and conference papers** and **one preprint**, grouped by year from newest to oldest.
+**8 international journal and conference papers** and **2 preprints**, grouped by year from newest to oldest.
 
 ## 2026
 
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/vsa-layered-control.png" target="_blank" rel="noopener"><img src="/assets/images/vsa-layered-control.png" alt="Layered position–stiffness control" loading="lazy"></a><figcaption>Layered position–stiffness control</figcaption></figure><div markdown="1">
+
+### [1] Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator
+
+**Yuanlong Ji**, Ruizhe Jiang, Dongrun Jin, Xiangyu Xie, Junheng Lin, Xingbang Yang  
+*arXiv:2611.07504*  
+**2026 · Co-first author, listed first · Preprint · Posted 5 November 2026**
+
+Extending the ACIRS mechanism study, this work links elastic shaping, independent ADAMS–Simulink model comparisons and layered state-estimation, decoupling and compensation control. In the tested simulations, the maximum joint-angle RMSE between models was 4.66 × 10⁻³ rad; EKF reduced velocity-estimation RMSE by over 97% relative to direct differentiation.
+
+[Abstract](https://arxiv.org/abs/2611.07504) · [PDF](https://arxiv.org/pdf/2611.07504)
+
+</div></div>
+
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="Bench and backpack configurations" loading="lazy"></a><figcaption>Bench and backpack configurations</figcaption></figure><div markdown="1">
 
-### [1] A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation
+### [2] A Reconfigurable Bidirectional Cable-Driven Hip Exoskeleton with Swappable Bench/Backpack Dual-configuration Actuation
 
 **Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
 *arXiv:2609.25639*  
@@ -26,7 +40,7 @@ A shared wearable hip interface supports both bench-mounted laboratory experimen
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="Dual-mode actuator" loading="lazy"></a><figcaption>Dual-mode actuator</figcaption></figure><div markdown="1">
 
-### [2] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
+### [3] Design and Control of a Cable-Driven Switchable Actuator with Torque/Tension Dual Modes for Exoskeletons
 
 **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
 *IEEE Robotics and Automation Letters*  
@@ -41,7 +55,7 @@ Switchable torque and tension output connects different assistance requirements 
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="Variable-stiffness mechanism" loading="lazy"></a><figcaption>Variable-stiffness mechanism</figcaption></figure><div markdown="1">
 
-### [3] Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism
+### [4] Optimization Design and Simulation Validation of a Variable Stiffness Actuator Based on a Crossed Four-Bar Mechanism
 
 **Yuanlong Ji**, Ruizhe Jiang, Xiangyu Xie, Junheng Lin, Dongrun Jin, Xingbang Yang  
 *11th Asia-Pacific Conference on Intelligent Robot Systems*  
@@ -53,7 +67,7 @@ Mechanism optimization and simulation validation of a variable-stiffness actuato
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="Trajectory-planning framework" loading="lazy"></a><figcaption>Trajectory-planning framework</figcaption></figure><div markdown="1">
 
-### [4] Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness
+### [5] Assistive Trajectory Planning for Lower Limb Exoskeletons: Strategies From Laboratory-Optimized Gait to Environmentally-Adaptive Locomotion Through Multimodal Parameter Awareness
 
 Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
 *IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
@@ -69,7 +83,7 @@ A review connecting assistive trajectory planning, multimodal awareness and envi
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="Wearable field experiments" loading="lazy"></a><figcaption>Wearable field experiments</figcaption></figure><div markdown="1">
 
-### [5] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
+### [6] Human Locomotion Implicit Modeling-Based Real-Time Gait Phase Estimation
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
@@ -83,7 +97,7 @@ Continuous gait-phase estimation for wearable assistance; reported steady-state 
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/ankle-system.png" target="_blank" rel="noopener"><img src="/assets/images/ankle-system.png" alt="Ankle exoskeleton system" loading="lazy"></a><figcaption>Ankle exoskeleton system</figcaption></figure><div markdown="1">
 
-### [6] A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton
+### [7] A Compliant Transition Control Strategy for Plantarflexion-Dorsiflexion Switch in a Bidirectional Cable-Driven Ankle Exoskeleton
 
 Wenjing Liu, **Yuanlong Ji**, Mengnan Zhou, Yu Song, Quan Zheng, Yubo Fan, Xingbang Yang  
 *IFAC-PapersOnLine, 59(35): 362–367*  
@@ -99,7 +113,7 @@ Compliant switching between plantarflexion and dorsiflexion assistance in a cabl
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="Orthopedic rehabilitation system" loading="lazy"></a><figcaption>Orthopedic rehabilitation system</figcaption></figure><div markdown="1">
 
-### [7] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
+### [8] Conceptual Design and Preliminary Experiment of an Orthopedic Rehabilitation Exoskeleton Based on the Coupled Movable Pulley Mechanism (CMPM)
 
 **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
 *World Rehabilitation Robot Convention, pp. 1–6*  
@@ -115,7 +129,7 @@ A coupled movable pulley mechanism supports versatile orthopedic rehabilitation;
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/safe-admittance.png" target="_blank" rel="noopener"><img src="/assets/images/safe-admittance.png" alt="Safe-interaction apparatus" loading="lazy"></a><figcaption>Safe-interaction apparatus</figcaption></figure><div markdown="1">
 
-### [8] A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model
+### [9] A Safe Admittance Boundary Algorithm for Rehabilitation Robot Based on Space Classification Model
 
 Yong Tao, **Yuanlong Ji**, Dongming Han, He Gao, Tianmiao Wang  
 *Applied Sciences, 13(9): 5816*  
@@ -129,7 +143,7 @@ A space-classification model defines safe admittance boundaries for physical hum
 
 ## 2020
 
-### [9] Design and Development of Management and Control System for Intelligent Die Forging Production Line
+### [10] Design and Development of Management and Control System for Intelligent Die Forging Production Line
 
 **Yuanlong Ji**, Shuwen Sun, Zhifeng Liu, Chenfei Liu  
 *World Conference on Mechanical Engineering and Intelligent Manufacturing, pp. 230–233*  

@@ -6,13 +6,27 @@ lang: zh-CN
 author_profile: true
 ---
 
-按年份从新到旧列示**8篇国际期刊与会议论文**及**1篇预印本**。
+按年份从新到旧列示**8篇国际期刊与会议论文**及**2篇预印本**。
 
 ## 2026
 
+<div class="paper-row"><figure class="paper-figure"><a href="/assets/images/vsa-layered-control.png" target="_blank" rel="noopener"><img src="/assets/images/vsa-layered-control.png" alt="位置—刚度分层控制框架" loading="lazy"></a><figcaption>位置—刚度分层控制框架</figcaption></figure><div markdown="1">
+
+### [1] 弹性整形拮抗式变刚度执行器的仿真建模与控制
+
+**Yuanlong Ji**, Ruizhe Jiang, Dongrun Jin, Xiangyu Xie, Junheng Lin, Xingbang Yang  
+*arXiv:2611.07504*  
+**2026 · 共同第一作者、署名首位 · 预印本 · 2026年11月5日公开**
+
+延续ACIRS变刚度机构研究，将弹性整形、ADAMS与Simulink独立模型对比，以及状态估计—解耦—补偿分层控制相结合。在所测试的仿真条件下，模型间关节角最大均方根误差为4.66 × 10⁻³ rad；相较直接差分，EKF在所测试速度通道的估计均方根误差降低超过97%。
+
+[摘要](https://arxiv.org/abs/2611.07504) · [PDF](https://arxiv.org/pdf/2611.07504)
+
+</div></div>
+
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/reconfigurable-preprint.png" target="_blank" rel="noopener"><img src="/assets/images/reconfigurable-preprint.png" alt="台架与背包双构型" loading="lazy"></a><figcaption>台架与背包双构型</figcaption></figure><div markdown="1">
 
-### [1] 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼
+### [2] 具有台架／背包双构型可切换驱动的可重构双向绳驱动髋关节外骨骼
 
 **Yuanlong Ji**, Shuhan Xiang, Qihan Ye, Xingbang Yang  
 *arXiv:2609.25639*  
@@ -26,7 +40,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/dual-mode-actuator.png" target="_blank" rel="noopener"><img src="/assets/images/dual-mode-actuator.png" alt="双模式执行器结构" loading="lazy"></a><figcaption>双模式执行器结构</figcaption></figure><div markdown="1">
 
-### [2] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
+### [3] 面向外骨骼的力矩／张力双模式绳驱动可切换执行器设计与控制
 
 **Yuanlong Ji**, Xu Liu, Xinyuan Cai, Qihan Ye, Xiangyu Xie, Ruizhe Jiang, Shuhan Xiang, Wenjing Liu, Qijun Wang, Yang Chen, Xingbang Yang  
 *IEEE Robotics and Automation Letters*  
@@ -41,7 +55,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/variable-stiffness-architecture.png" target="_blank" rel="noopener"><img src="/assets/images/variable-stiffness-architecture.png" alt="变刚度执行器机构" loading="lazy"></a><figcaption>变刚度执行器机构</figcaption></figure><div markdown="1">
 
-### [3] 基于交叉四杆机构的变刚度执行器优化设计与仿真验证
+### [4] 基于交叉四杆机构的变刚度执行器优化设计与仿真验证
 
 **Yuanlong Ji**, Ruizhe Jiang, Xiangyu Xie, Junheng Lin, Dongrun Jin, Xingbang Yang  
 *11th Asia-Pacific Conference on Intelligent Robot Systems*  
@@ -53,7 +67,7 @@ author_profile: true
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/trajectory-review.png" target="_blank" rel="noopener"><img src="/assets/images/trajectory-review.png" alt="辅助轨迹规划分析框架" loading="lazy"></a><figcaption>辅助轨迹规划分析框架</figcaption></figure><div markdown="1">
 
-### [4] 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动
+### [5] 下肢外骨骼辅助轨迹规划：从实验室优化步态到多模态参数感知下的环境自适应运动
 
 Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Yubo Fan  
 *IEEE Reviews in Biomedical Engineering, 19: 41–64 (online 2025)*  
@@ -69,7 +83,7 @@ Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Y
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/gait-experiment.png" target="_blank" rel="noopener"><img src="/assets/images/gait-experiment.png" alt="实地穿戴实验" loading="lazy"></a><figcaption>实地穿戴实验</figcaption></figure><div markdown="1">
 
-### [5] 基于人体运动隐式建模的实时步态相位估计
+### [6] 基于人体运动隐式建模的实时步态相位估计
 
 **Yuanlong Ji**, Xingbang Yang, Ruoqi Zhao, Qihan Ye, Quan Zheng, Yubo Fan  
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 33: 4124–4136*  
@@ -83,7 +97,7 @@ Qihan Ye, Xingbang Yang, Ruoqi Zhao, **Yuanlong Ji**, Xinyuan Cai, Quan Zheng, Y
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/ankle-system.png" target="_blank" rel="noopener"><img src="/assets/images/ankle-system.png" alt="踝关节外骨骼系统" loading="lazy"></a><figcaption>踝关节外骨骼系统</figcaption></figure><div markdown="1">
 
-### [6] 双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制
+### [7] 双向绳驱动踝关节外骨骼跖屈／背屈切换的柔顺过渡控制
 
 Wenjing Liu, **Yuanlong Ji**, Mengnan Zhou, Yu Song, Quan Zheng, Yubo Fan, Xingbang Yang  
 *IFAC-PapersOnLine, 59(35): 362–367*  
@@ -99,7 +113,7 @@ Wenjing Liu, **Yuanlong Ji**, Mengnan Zhou, Yu Song, Quan Zheng, Yubo Fan, Xingb
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/wrrc-system.png" target="_blank" rel="noopener"><img src="/assets/images/wrrc-system.png" alt="骨科康复外骨骼系统" loading="lazy"></a><figcaption>骨科康复外骨骼系统</figcaption></figure><div markdown="1">
 
-### [7] 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验
+### [8] 基于耦合动滑轮机构的骨科康复外骨骼概念设计与初步实验
 
 **Yuanlong Ji**, Xuzhou Lang, Bo Wu, Quan Zheng, Yubo Fan, Xingbang Yang  
 *World Rehabilitation Robot Convention, pp. 1–6*  
@@ -115,7 +129,7 @@ Wenjing Liu, **Yuanlong Ji**, Mengnan Zhou, Yu Song, Quan Zheng, Yubo Fan, Xingb
 
 <div class="paper-row"><figure class="paper-figure"><a href="/assets/images/safe-admittance.png" target="_blank" rel="noopener"><img src="/assets/images/safe-admittance.png" alt="安全交互实验装置" loading="lazy"></a><figcaption>安全交互实验装置</figcaption></figure><div markdown="1">
 
-### [8] 基于空间分类模型的康复机器人安全导纳边界算法
+### [9] 基于空间分类模型的康复机器人安全导纳边界算法
 
 Yong Tao, **Yuanlong Ji**, Dongming Han, He Gao, Tianmiao Wang  
 *Applied Sciences, 13(9): 5816*  
@@ -129,7 +143,7 @@ Yong Tao, **Yuanlong Ji**, Dongming Han, He Gao, Tianmiao Wang
 
 ## 2020
 
-### [9] 智能模锻生产线管理与控制系统的设计开发
+### [10] 智能模锻生产线管理与控制系统的设计开发
 
 **Yuanlong Ji**, Shuwen Sun, Zhifeng Liu, Chenfei Liu  
 *World Conference on Mechanical Engineering and Intelligent Manufacturing, pp. 230–233*  
