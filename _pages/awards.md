@@ -8,7 +8,7 @@ author_profile: true
 ## Academic honors
 
 - **2026: Received an Honorary Award in the Student Incentive Program at the 4th Autonomous Robot Technology Symposium (ARTS 2026).**
-- **2026:** 2026 National Scholarship for Doctoral Students at Beihang University.
+- **2026: National Scholarship for Doctoral Students**.
 - **2025:** CAST doctoral-student science and technology talent development program (national talent program).
 - **2024:** WRRC Best Paper Award, first author.
 - **2026:** Second prize, Young Paper Competition at the Rehabilitation Engineering Academic Conference.
