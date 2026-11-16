@@ -12,9 +12,9 @@ author_profile: true
 - **2025:** CAST doctoral-student science and technology talent development program (national talent program).
 - **2024:** WRRC Best Paper Award, first author.
 - **2026:** Second prize, Young Paper Competition at the Rehabilitation Engineering Academic Conference.
-- **2024:** Science and Technology Innovation Star, Beihang medical-engineering interdisciplinary cluster.
-- **2026:** Outstanding Graduate Student; **2025:** Merit Student, Beihang.
-- **2023–2025:** First-class graduate academic scholarship for three consecutive years.
+- **2024:** Science and Technology Innovation Star, Beihang University medical-engineering interdisciplinary cluster.
+- **2026:** Outstanding Graduate Student; **2025:** Merit Student, Beihang University.
+- **2023–2025:** First-class Graduate Academic Scholarship, Beihang University.
 
 ## Competition awards
 
