@@ -11,6 +11,7 @@ author_profile: true
 - **2026: National Scholarship for Doctoral Students**.
 - **2026:** Second prize, Young Paper Competition at the Rehabilitation Engineering Academic Conference.
 - **2026:** Outstanding Graduate Student, Beihang University.
+- **2026: Trusted Reviewer**, awarded by Institute of Physics (IOP) Publishing.
 - **2025:** CAST doctoral-student science and technology talent development program (national talent program).
 - **2025:** Merit Student, Beihang University.
 - **2023–2025:** First-class Graduate Academic Scholarship, Beihang University.

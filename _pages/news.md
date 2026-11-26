@@ -14,6 +14,7 @@ author_profile: true
 - **September 2026:** Demonstrated exoskeleton research at Care & Rehabilitation Expo China.
 - **August 2026:** Presented variable-stiffness actuator research at ACIRS 2026 in Hong Kong.
 - **July 2026:** Won first prize as team leader at the 11th National Undergraduate Biomedical Engineering Innovation Design Competition in Hainan.
+- **June 2026:** Trusted Reviewer, awarded by Institute of Physics (IOP) Publishing.
 - **2025:** Selected for the 2025 CAST doctoral-student science and technology talent development program.
 
 
